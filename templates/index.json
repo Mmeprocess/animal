@@ -57,13 +57,7 @@
         "logo_iUefiR": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_mgQwtm": {
-          "type": "logo",
-          "settings": {
+            "logo": "shopify://shop_images/LOGO_BFMT.png",
             "logo_width": 120,
             "link": ""
           }
@@ -71,6 +65,15 @@
         "logo_U8qfND": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo_veto.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_mgQwtm": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_le_monde.png",
             "logo_width": 120,
             "link": ""
           }
@@ -78,6 +81,7 @@
         "logo_7iWmkM": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/choisir-un-chien-logo-footer.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -85,15 +89,15 @@
       },
       "block_order": [
         "logo_iUefiR",
-        "logo_mgQwtm",
         "logo_U8qfND",
+        "logo_mgQwtm",
         "logo_7iWmkM"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Ils en parlent",
         "content": "",
         "text_alignment": "start",
         "items_per_row": 5,
@@ -109,32 +113,18 @@
     "rich_text_iN8PCd": {
       "type": "rich-text",
       "blocks": {
-        "subheading_8jm7r9": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_WBAeGr": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Les 5 raisons de toujours avoir Furlyzo sur soi",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "richtext_7rPjJW": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_8jm7r9",
-        "heading_WBAeGr",
-        "richtext_7rPjJW"
+        "heading_WBAeGr"
       ],
       "name": "Rich text",
       "settings": {
@@ -148,38 +138,13 @@
     },
     "image_with_text_overlay_RKjBWE": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_qgzrtF": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_wghQfF": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_AdadRJ": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_qgzrtF",
-        "heading_wghQfF",
-        "richtext_AdadRJ"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/3_cd897656-e065-4f76-ac62-30c3b5390151.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -267,6 +232,30 @@
             "link_style": "link"
           }
         },
+        "item_dazcfy": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BFp3nY": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_UwzkeK": {
           "type": "item",
           "settings": {
@@ -283,6 +272,8 @@
       "block_order": [
         "item_3zMMFD",
         "item_TjQENA",
+        "item_dazcfy",
+        "item_BFp3nY",
         "item_UwzkeK"
       ],
       "name": "Multi-column",
