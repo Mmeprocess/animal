@@ -100,7 +100,7 @@
         "stack_mobile": true,
         "title": "Ils en parlent",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
         "background_gradient": "",
@@ -182,28 +182,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
-      }
-    },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
       }
     },
     "multi_column_ddYdjH": {
@@ -517,7 +495,6 @@
     "rich_text_iN8PCd",
     "image_with_text_overlay_RKjBWE",
     "video_6Fj8Rh",
-    "before-after-image",
     "multi_column_ddYdjH",
     "featured-product",
     "tabs_TUmKrp",
