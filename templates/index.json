@@ -464,13 +464,22 @@
             "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions six jours sur sept.</p><p>Vous pouvez nous contacter par email ou via le formulaire contact. </p>",
             "page": ""
           }
+        },
+        "tab_LQ6UYx": {
+          "type": "tab",
+          "settings": {
+            "title": "Charge Optimale",
+            "content": "<p>Pour garantir des performances optimales et une longue durée de vie de votre <strong>Furlyzo</strong>, nous vous recommandons de le charger en utilisant un dock de charge d’une puissance minimale de <strong>20W</strong> (charge rapide).</p><p>L’utilisation d’un chargeur rapide permet non seulement de réduire le temps de charge, mais également d’assurer une charge efficace et sécurisée. Cela est particulièrement important pour maintenir la performance et la durabilité de votre appareil.</p><p>Veuillez vérifier les spécifications de votre chargeur pour vous assurer qu’il répond à cette exigence. Une charge adéquate contribue à maximiser l’efficacité de votre <strong>Furlyzo</strong> et à prolonger sa durée de vie.</p><p>Merci pour votre compréhension et votre coopération.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_MGtemF",
         "tab_mwAQmh",
         "tab_pBTRDF",
-        "tab_pMFCp6"
+        "tab_pMFCp6",
+        "tab_LQ6UYx"
       ],
       "name": "Tabs",
       "settings": {
