@@ -453,7 +453,7 @@
           "type": "tab",
           "settings": {
             "title": "Livraison gratuite à domicile",
-            "content": "<p>La livraison gratuite à domicile est gratuite.<br/><br/>Selon le volume de commandes à traiter, le délai de livraison est estimé entre 6 et 11 jours ouvrés.</p>",
+            "content": "<p>La livraison gratuite à domicile est gratuite.<br/><br/>Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 9 jours ouvrés.</p>",
             "page": ""
           }
         }
