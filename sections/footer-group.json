@@ -37,7 +37,7 @@
             "icon_background": "#ffb74a",
             "icon_color": "",
             "title": "Satisfait ou remboursé",
-            "content": "<p>Short content about your store</p>"
+            "content": ""
           }
         },
         "customer-support": {
@@ -50,7 +50,7 @@
             "icon_background": "#ffb74a",
             "icon_color": "",
             "title": "Service Client 6j/7",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "content": ""
           }
         },
         "payment": {
