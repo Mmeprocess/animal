@@ -506,23 +506,31 @@
             "content": "<p>Oui ! Même les chiens les plus têtus réagissent au son ultrasonique. Certains peuvent avoir besoin de quelques séances pour s’y habituer, mais avec une <strong>utilisation régulière</strong>, ils apprennent à associer leurs aboiements au son et à corriger leur comportement.</p>"
           }
         },
+        "item_eLzyB4": {
+          "type": "item",
+          "settings": {
+            "title": "Je n'ai pas de chiens mais j'en ai peur. Puis-je utiliser Furlyzo ?",
+            "content": "<p><strong>Oui, absolument.</strong> Furlyzo est conçu aussi bien pour les propriétaires de chiens que pour les personnes qui n’en ont pas, mais qui veulent se sentir en sécurité.<br/><br/>Grâce à sa portée de 3 mètres, il vous permet d’éloigner un chien agressif ou trop curieux <strong>sans aucun contact physique</strong> et <strong>sans lui faire de mal</strong>.<br/><br/>Compact et léger, il se glisse facilement dans un sac ou une poche pour vous accompagner partout.</p>"
+          }
+        },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
             "title": "Furlyzo™ fonctionne-t-il pour d’autres comportements que les aboiements ?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "content": "<p>Absolument ! De nombreux clients l’ont utilisé avec succès pour stopper les sauts, le mâchonnement excessif, le creusage et même l’agressivité en laisse.<br/><br/>Le son ultrasonique capte leur attention, ce qui vous permet de rediriger leur comportement.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Le son ultrasonique va-t-il blesser mon chien ?",
+            "content": "<p>Non, Furlyzo est <strong>100 % sûr et sans cruauté</strong>. Contrairement aux colliers électriques, il <strong>ne cause aucune douleur</strong> — il émet simplement un son qui attire l’attention de votre chien et encourage son dressage.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
+        "item_eLzyB4",
         "166442457738b23caf-1",
         "166442457738b23caf-2"
       ],
@@ -532,11 +540,11 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
