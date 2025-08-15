@@ -533,6 +533,13 @@
             "title": "Quelle est la durée de vie de la batterie ?",
             "content": "<p><br/>Furlyzo est équipé d’une <strong>recharge rapide USB</strong> et peut durer <strong>jusqu’à 60 jours avec une seule charge</strong>, selon l’utilisation.<br/><br/>Dites adieu au remplacement constant des piles !<br/><br/></p>"
           }
+        },
+        "item_fnMJix": {
+          "type": "item",
+          "settings": {
+            "title": "Cela fonctionne-t-il sur plusieurs chiens ?",
+            "content": "<p>Oui ! Si les chiens sont à portée, <strong>ils entendront tous le son ultrasonique</strong>. </p><p>Certains clients ont constaté que cela fonctionnait très bien dans les foyers avec plusieurs chiens, tandis que d’autres ont remarqué que les chiens plus têtus nécessitaient un entraînement individuel.</p>"
+          }
         }
       },
       "block_order": [
@@ -540,7 +547,8 @@
         "item_eLzyB4",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_8WURPj"
+        "item_8WURPj",
+        "item_fnMJix"
       ],
       "settings": {
         "full_width": true,
