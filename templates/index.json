@@ -15,7 +15,7 @@
         "heading_xLCG6F": {
           "type": "heading",
           "settings": {
-            "text": "Maîtrisez tous les chiens instantanément",
+            "text": "Maîtrisez tous les chiens en un clic",
             "heading_tag": "h1"
           }
         },
@@ -109,7 +109,7 @@
         "heading_WBAeGr": {
           "type": "heading",
           "settings": {
-            "text": "Les 5 raisons de toujours avoir Furlyzo sur soi",
+            "text": "Les 6 raisons de toujours avoir Furlyzo sur soi",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -137,12 +137,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/3_cd897656-e065-4f76-ac62-30c3b5390151.png",
+        "image": "shopify://shop_images/V2_benefice_produit.png",
+        "mobile_image": "shopify://shop_images/V2Benefices_photo_1300_x_1500_px_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "video_6Fj8Rh": {
@@ -170,7 +171,7 @@
         "allow_transparent_header": false,
         "autoplay": false,
         "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "external_video_url": "https://youtu.be/5qxcMbV2ms8",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
