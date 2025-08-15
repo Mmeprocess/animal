@@ -12,17 +12,10 @@
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "FINI L'ANGOISSE !",
-            "heading_tag": "h1"
-          }
-        },
         "heading_xLCG6F": {
           "type": "heading",
           "settings": {
-            "text": "Dressez votre chien ET stoppez les chiens dangereux",
+            "text": "Maîtrisez tous les chiens instantanément",
             "heading_tag": "h1"
           }
         },
@@ -34,7 +27,6 @@
         }
       },
       "block_order": [
-        "1664424230c4756b0e-1",
         "heading_xLCG6F",
         "1664424230c4756b0e-2"
       ],
