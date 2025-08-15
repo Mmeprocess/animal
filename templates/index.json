@@ -152,18 +152,10 @@
         "play_P8xi3f": {
           "type": "play",
           "settings": {}
-        },
-        "heading_h4hFNq": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
         }
       },
       "block_order": [
-        "play_P8xi3f",
-        "heading_h4hFNq"
+        "play_P8xi3f"
       ],
       "name": "Video",
       "settings": {
@@ -174,7 +166,7 @@
         "external_video_url": "https://youtu.be/5qxcMbV2ms8",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_ddYdjH": {
