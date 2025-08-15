@@ -526,13 +526,21 @@
             "title": "Le son ultrasonique va-t-il blesser mon chien ?",
             "content": "<p>Non, Furlyzo est <strong>100 % sûr et sans cruauté</strong>. Contrairement aux colliers électriques, il <strong>ne cause aucune douleur</strong> — il émet simplement un son qui attire l’attention de votre chien et encourage son dressage.</p>"
           }
+        },
+        "item_8WURPj": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la durée de vie de la batterie ?",
+            "content": "<p><br/>Furlyzo est équipé d’une <strong>recharge rapide USB</strong> et peut durer <strong>jusqu’à 60 jours avec une seule charge</strong>, selon l’utilisation.<br/><br/>Dites adieu au remplacement constant des piles !<br/><br/></p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "item_eLzyB4",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_8WURPj"
       ],
       "settings": {
         "full_width": true,
