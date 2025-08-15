@@ -428,7 +428,7 @@
           "type": "tab",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "content": "<ul><li>Portée effective : jusqu’à 3 mètres</li><li>Technologie 2-en-1 : ultrason + éclairage LED intégré</li><li>Batterie rechargeable USB-C — autonomie longue durée</li><li>Temps de charge : ~1 heure</li><li>Dimensions compactes — tient dans la main</li><li>Poids léger : environ 90 g</li><li>Matériau : plastique ABS résistant aux chocs</li><li>Inoffensif pour l’animal et l’utilisateur</li><li>Indicateur LED pour batterie et activation</li></ul>",
             "page": ""
           }
         },
