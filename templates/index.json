@@ -174,22 +174,15 @@
     },
     "video_6Fj8Rh": {
       "type": "video",
-      "blocks": {
-        "play_P8xi3f": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_P8xi3f"
-      ],
       "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
-        "external_video_url": "https://youtu.be/5qxcMbV2ms8",
+        "video": "shopify://files/videos/AVANTAPRES.mp4",
+        "mobile_video": "shopify://files/videos/AVANTAPRES.mp4",
+        "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -201,34 +194,11 @@
         "item_3zMMFD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/5_1ceb075e-bc3f-4bc4-95e2-17939cdb3b11.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Judith B. 37 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_TjQENA": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dazcfy": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Offert à mon mari car il rencontre souvent des chiens agressifs durant son jogging : un chien agressif s’est arrêté net et est parti. </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -237,10 +207,37 @@
         "item_BFp3nY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4_4f0fe19f-b4c7-4583-a519-8e4fb7841895.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Pierre E. 36 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Mon chien aboit constamment. Je suis obligée de le crier dessus. Depuis que j'utilise Furlyzo, il se calme et ne me dérange plus.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TjQENA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6_7a08d1d3-c810-4197-9d25-12787dd6f696.png",
+            "column_size": "3",
+            "title": "Natasha S. 45 ans",
+            "heading_tag": "h4",
+            "content": "<p>Il est toujours avec moi! Léger, portatif, lumière intégré. Le + : il est inoffensif et inaudible contrairement au collier électrique.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dazcfy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_9f43a7c8-7789-412e-9f4e-5914d9bfa3e3.png",
+            "column_size": "3",
+            "title": "Chloé D. 23 ans",
+            "heading_tag": "h4",
+            "content": "<p>Mon chien est devenu très calme depuis que j'ai acheté Furlyzo. Les voisins n'ont plus de soucis à se faire.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -249,10 +246,24 @@
         "item_UwzkeK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2_61ff5863-b1fc-405e-9864-8de76369bd3d.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Christine J. 65 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Fini de crier pour que mon chien obéisse, il me suffit de cliquer sur Furlyzo et j'ai la paix!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_CtkyD3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1a99d206-0f15-414c-124b-61c966885e00.jpg",
+            "column_size": "3",
+            "title": "Cédric G. 29 ans",
+            "heading_tag": "h4",
+            "content": "<p>Efficace pour éloigner les animaux errants, et la batterie tient longtemps.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -261,20 +272,21 @@
       },
       "block_order": [
         "item_3zMMFD",
+        "item_BFp3nY",
         "item_TjQENA",
         "item_dazcfy",
-        "item_BFp3nY",
-        "item_UwzkeK"
+        "item_UwzkeK",
+        "item_CtkyD3"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos Clients en parlent le mieux",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
