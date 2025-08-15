@@ -513,8 +513,16 @@
             "content": "<p><strong>Oui, absolument.</strong> Furlyzo est conçu aussi bien pour les propriétaires de chiens que pour les personnes qui n’en ont pas, mais qui veulent se sentir en sécurité.<br/><br/>Grâce à sa portée de 3 mètres, il vous permet d’éloigner un chien agressif ou trop curieux <strong>sans aucun contact physique</strong> et <strong>sans lui faire de mal</strong>.<br/><br/>Compact et léger, il se glisse facilement dans un sac ou une poche pour vous accompagner partout.</p>"
           }
         },
+        "item_9jQhYi": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si Furlyzo ne réponds pas à mes attentes ?",
+            "content": "<p>Nous sommes sûrs que vous allez adorer Furlyzo !</p><p>Toutefois, si vous n’êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet !</p>"
+          }
+        },
         "166442457738b23caf-1": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Furlyzo™ fonctionne-t-il pour d’autres comportements que les aboiements ?",
             "content": "<p>Absolument ! De nombreux clients l’ont utilisé avec succès pour stopper les sauts, le mâchonnement excessif, le creusage et même l’agressivité en laisse.<br/><br/>Le son ultrasonique capte leur attention, ce qui vous permet de rediriger leur comportement.</p>"
@@ -522,6 +530,7 @@
         },
         "166442457738b23caf-2": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Le son ultrasonique va-t-il blesser mon chien ?",
             "content": "<p>Non, Furlyzo est <strong>100 % sûr et sans cruauté</strong>. Contrairement aux colliers électriques, il <strong>ne cause aucune douleur</strong> — il émet simplement un son qui attire l’attention de votre chien et encourage son dressage.</p>"
@@ -529,25 +538,35 @@
         },
         "item_8WURPj": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Quelle est la durée de vie de la batterie ?",
             "content": "<p><br/>Furlyzo est équipé d’une <strong>recharge rapide USB</strong> et peut durer <strong>jusqu’à 60 jours avec une seule charge</strong>, selon l’utilisation.<br/><br/>Dites adieu au remplacement constant des piles !<br/><br/></p>"
           }
         },
+        "item_xerWht": {
+          "type": "item",
+          "settings": {
+            "title": "Est ce que vous livrez à l'étranger ?",
+            "content": "<p>Nous livrons en France, Belgique et Suisse. A l'étranger, les livraisons sont acheminées avec 2 à 4 jours suppléméntaires</p>"
+          }
+        },
         "item_fnMJix": {
           "type": "item",
           "settings": {
-            "title": "Cela fonctionne-t-il sur plusieurs chiens ?",
-            "content": "<p>Oui ! Si les chiens sont à portée, <strong>ils entendront tous le son ultrasonique</strong>. </p><p>Certains clients ont constaté que cela fonctionnait très bien dans les foyers avec plusieurs chiens, tandis que d’autres ont remarqué que les chiens plus têtus nécessitaient un entraînement individuel.</p>"
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p>Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 9 jours ouvrés.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "item_eLzyB4",
+        "item_9jQhYi",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
         "item_8WURPj",
+        "item_xerWht",
         "item_fnMJix"
       ],
       "settings": {
