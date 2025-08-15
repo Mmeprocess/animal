@@ -19,6 +19,14 @@
             "heading_tag": "h1"
           }
         },
+        "heading_nFJwCp": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Maîtrisez tous les chiens en un clic",
+            "heading_tag": "h1"
+          }
+        },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
@@ -28,6 +36,7 @@
       },
       "block_order": [
         "heading_xLCG6F",
+        "heading_nFJwCp",
         "1664424230c4756b0e-2"
       ],
       "settings": {
