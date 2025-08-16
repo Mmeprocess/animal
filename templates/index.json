@@ -370,8 +370,9 @@
         "image_493AjG": {
           "type": "image",
           "settings": {
-            "alignment": "start",
-            "max_width": 150
+            "image": "shopify://shop_images/cadeau.png",
+            "alignment": "center",
+            "max_width": 320
           }
         },
         "pickup_availability_JYjNRG": {
