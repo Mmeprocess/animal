@@ -103,7 +103,7 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#d7d2c3",
+        "background": "#f7f1e1",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -120,7 +120,7 @@
           "settings": {
             "text": "Furlyzo est avec vous au quotidien",
             "heading_tag": "h2",
-            "text_color": "",
+            "text_color": "#ffffff",
             "gradient": ""
           }
         }
@@ -133,9 +133,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f0f0f0",
+        "background": "#2c3e50",
         "background_gradient": "",
-        "text_color": "#1a1a1a"
+        "text_color": ""
       }
     },
     "image_with_text_overlay_RKjBWE": {
@@ -176,7 +176,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f0f0f0",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -296,9 +296,9 @@
         "subheading": "",
         "title": "Nos Clients en parlent le mieux",
         "content": "",
-        "background": "#2c3e50",
+        "background": "",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": ""
       }
     },
     "featured-product": {
