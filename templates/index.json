@@ -176,7 +176,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": ""
       }
@@ -296,9 +296,9 @@
         "subheading": "",
         "title": "Nos Clients en parlent le mieux",
         "content": "",
-        "background": "",
+        "background": "#2c3e50",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#ffffff"
       }
     },
     "featured-product": {
@@ -382,7 +382,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#ff6f20",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -489,7 +489,7 @@
         "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -580,7 +580,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#ffffff",
+        "background": "#f7f1e1",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -606,9 +606,9 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "contact_background": "",
+        "contact_background": "#f0f0f0",
         "contact_text_color": "#1a1a1a",
-        "button_background": "#ffb74a",
+        "button_background": "#ff6f20",
         "button_text_color": "#1a1a1a"
       }
     }
