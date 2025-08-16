@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Offre Rentrée 2025 - 50% sur le 2ème Furlyzo",
+            "text": "RENTRÉE 2025 - 50% sur le 2ème Furlyzo",
             "url": ""
           }
         },
         "message_hnMzKp": {
           "type": "message",
           "settings": {
-            "text": "Livraison Gratuite",
+            "text": "LIVRAISON GRATUITE",
             "url": ""
           }
         }
@@ -40,7 +40,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#d7d2c3",
+        "background": "#ff6f20",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
