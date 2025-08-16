@@ -335,8 +335,9 @@
         "image_cMMgg8": {
           "type": "image",
           "settings": {
-            "alignment": "start",
-            "max_width": 150
+            "image": "shopify://shop_images/Banniere_promo.png",
+            "alignment": "center",
+            "max_width": 390
           }
         },
         "separator": {
