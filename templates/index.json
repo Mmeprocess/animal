@@ -46,7 +46,7 @@
         "image_size": "auto",
         "image": "shopify://shop_images/8_cb78230e-9805-462e-acc1-0df6bc5ea6f1.png",
         "mobile_image": "shopify://shop_images/8_cb78230e-9805-462e-acc1-0df6bc5ea6f1.png",
-        "mobile_text_position": "place-self-center-end text-end",
+        "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
