@@ -393,8 +393,9 @@
         "image_E4GJpm": {
           "type": "image",
           "settings": {
-            "alignment": "start",
-            "max_width": 150
+            "image": "shopify://shop_images/bAdge_confiance.png",
+            "alignment": "center",
+            "max_width": 300
           }
         }
       },
