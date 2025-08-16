@@ -373,20 +373,20 @@
             "max_width": 150
           }
         },
-        "buy-buttons": {
+        "pickup_availability_JYjNRG": {
+          "type": "pickup_availability",
+          "settings": {}
+        },
+        "buy_buttons_YKtXng": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#ffb74a",
-            "atc_button_text_color": "#1a1a1a",
+            "atc_button_background": "",
+            "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "pickup_availability_JYjNRG": {
-          "type": "pickup_availability",
-          "settings": {}
         },
         "image_E4GJpm": {
           "type": "image",
@@ -408,8 +408,8 @@
         "variant-picker",
         "quantity-selector",
         "image_493AjG",
-        "buy-buttons",
         "pickup_availability_JYjNRG",
+        "buy_buttons_YKtXng",
         "image_E4GJpm"
       ],
       "settings": {
