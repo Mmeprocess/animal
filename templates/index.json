@@ -489,9 +489,9 @@
         "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
-        "background": "#f0f0f0",
+        "background": "#2c3e50",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "heading_color": "",
         "heading_gradient": ""
       }
@@ -601,12 +601,12 @@
         "content": "<p>Écrivez-vous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
         "text_position": "center",
         "contact_form_size": "large",
-        "background": "",
+        "background": "#2c3e50",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "heading_color": "",
         "heading_gradient": "",
-        "contact_background": "#f0f0f0",
+        "contact_background": "#f7f1e1",
         "contact_text_color": "#1a1a1a",
         "button_background": "#ff6f20",
         "button_text_color": "#1a1a1a"
