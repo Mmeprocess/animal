@@ -103,9 +103,9 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#f7f1e1",
+        "background": "#2c3e50",
         "background_gradient": "",
-        "text_color": "#2c3e50",
+        "text_color": "#f7f1e1",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "",
@@ -120,7 +120,7 @@
           "settings": {
             "text": "Furlyzo est avec vous au quotidien",
             "heading_tag": "h2",
-            "text_color": "#ffffff",
+            "text_color": "#2c3e50",
             "gradient": ""
           }
         }
@@ -133,9 +133,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#2c3e50",
+        "background": "#f7f1e1",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#2c3e50"
       }
     },
     "image_with_text_overlay_RKjBWE": {
@@ -176,9 +176,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f7f1e1",
+        "background": "#2c3e50",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#f7f1e1"
       }
     },
     "video_6Fj8Rh": {
