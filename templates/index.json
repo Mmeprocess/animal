@@ -118,7 +118,7 @@
         "heading_WBAeGr": {
           "type": "heading",
           "settings": {
-            "text": "Furlyzo vous accompagne partout pour :",
+            "text": "Furlyzo est avec vous au quotidien",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -146,8 +146,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/V2_benefice_produit.png",
-        "mobile_image": "shopify://shop_images/benefice_mobile_1300_x_1500_px_1.png",
+        "image": "shopify://shop_images/v2benefice_destok.png",
+        "mobile_image": "shopify://shop_images/V2_benefice_mobile_1300_x_1500_px_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
