@@ -390,6 +390,10 @@
             "payment_button_text_color": ""
           }
         },
+        "conversion_bear_trust_badges_widget_gc9fRN": {
+          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {}
+        },
         "image_E4GJpm": {
           "type": "image",
           "settings": {
@@ -413,6 +417,7 @@
         "image_493AjG",
         "pickup_availability_JYjNRG",
         "buy_buttons_YKtXng",
+        "conversion_bear_trust_badges_widget_gc9fRN",
         "image_E4GJpm"
       ],
       "settings": {
