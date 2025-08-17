@@ -268,11 +268,11 @@
         "item_CtkyD3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/temoignage_cedric.png",
+            "image": "shopify://shop_images/v2_temoignage.png",
             "column_size": "3",
             "title": "Cédric G. 29 ans",
             "heading_tag": "h4",
-            "content": "<p>Efficace pour éloigner les animaux errants, et la batterie tient longtemps.</p>",
+            "content": "<p>Efficace pour éloigner les animaux errants ou agressifs. Je l'ai toujours sur moi! Il m'a sauvé plus d'une fois!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
