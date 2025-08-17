@@ -379,13 +379,13 @@
           "type": "pickup_availability",
           "settings": {}
         },
-        "buy_buttons_YKtXng": {
+        "buy_buttons_QYrKNr": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
-            "show_gift_card_recipient": true,
+            "show_gift_card_recipient": false,
             "atc_button_background": "#ff6f20",
-            "atc_button_text_color": "",
+            "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
@@ -416,7 +416,7 @@
         "quantity-selector",
         "image_493AjG",
         "pickup_availability_JYjNRG",
-        "buy_buttons_YKtXng",
+        "buy_buttons_QYrKNr",
         "conversion_bear_trust_badges_widget_gc9fRN",
         "image_E4GJpm"
       ],
