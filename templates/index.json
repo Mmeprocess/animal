@@ -505,7 +505,7 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Furlyzo™ fonctionnera-t-il sur mon chien têtu ?",
+            "title": "Furlyzo fonctionnera-t-il sur mon chien têtu ?",
             "content": "<p>Oui ! Même les chiens les plus têtus réagissent au son ultrasonique. Certains peuvent avoir besoin de quelques séances pour s’y habituer, mais avec une <strong>utilisation régulière</strong>, ils apprennent à associer leurs aboiements au son et à corriger leur comportement.</p>"
           }
         },
@@ -520,7 +520,7 @@
           "type": "item",
           "settings": {
             "title": "Que faire si Furlyzo ne réponds pas à mes attentes ?",
-            "content": "<p>Nous sommes sûrs que vous allez adorer Furlyzo !</p><p>Toutefois, si vous n’êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet !</p>"
+            "content": "<p>Nous sommes sûrs que vous allez adorer Furlyzo !</p><p>Toutefois, si vous n’êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons <strong>un remboursement complet !</strong></p>"
           }
         },
         "166442457738b23caf-1": {
@@ -551,7 +551,7 @@
           "type": "item",
           "settings": {
             "title": "Est ce que vous livrez à l'étranger ?",
-            "content": "<p>Nous livrons en France, Belgique et Suisse. A l'étranger, les livraisons sont acheminées avec 2 à 4 jours suppléméntaires</p>"
+            "content": "<p>Oui, nous livrons également en<strong> Belgique et en Suisse</strong>. Les livraisons sont acheminées avec 2 à 4 jours supplémentaires.</p>"
           }
         },
         "item_fnMJix": {
