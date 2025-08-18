@@ -336,7 +336,7 @@
         "image_cMMgg8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banniere_promo.png",
+            "image": "shopify://shop_images/Offre_fin_d_ete.png",
             "alignment": "center",
             "max_width": 390
           }
@@ -373,14 +373,10 @@
             "size_chart_page": ""
           }
         },
-        "quantity-selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "image_493AjG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/cadeau.png",
+            "image": "shopify://shop_images/Angle_proprietaire_cadeau.png",
             "alignment": "center",
             "max_width": 400
           }
@@ -413,7 +409,6 @@
         "kaching_bundles_app_block_Hjidmp",
         "buy_buttons_QYrKNr",
         "variant-picker",
-        "quantity-selector",
         "image_493AjG",
         "pickup_availability_JYjNRG",
         "conversion_bear_trust_badges_widget_gc9fRN",
@@ -460,7 +455,7 @@
           "type": "tab",
           "settings": {
             "title": "Livraison gratuite à domicile",
-            "content": "<p>La livraison gratuite à domicile est gratuite.<br/><br/>Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 9 jours ouvrés.</p>",
+            "content": "<p>La livraison sera effectuée à l'adresse que vous nous indiquerez. </p><p>En fonction du volume de commandes à traiter, le délai de livraison est estimé entre 5 et 9 jours ouvrés.</p>",
             "page": ""
           }
         },
@@ -496,9 +491,9 @@
         "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
-        "background": "#f7f1e1",
+        "background": "#2c3e50",
         "background_gradient": "",
-        "text_color": "#2c3e50",
+        "text_color": "#f7f1e1",
         "heading_color": "",
         "heading_gradient": ""
       }
