@@ -351,8 +351,9 @@
         "image_Yj9xdP": {
           "type": "image",
           "settings": {
-            "alignment": "start",
-            "max_width": 150
+            "image": "shopify://shop_images/Angle_peur_cadeau.png",
+            "alignment": "center",
+            "max_width": 490
           }
         },
         "liquid_JUBxYG": {
@@ -376,8 +377,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/bAdge_confiance.png",
-            "alignment": "start",
-            "max_width": 150
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "pickup_availability_3JjJwp": {
