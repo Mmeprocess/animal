@@ -215,7 +215,7 @@
             "column_size": "3",
             "title": "Cédric G. 29 ans",
             "heading_tag": "h4",
-            "content": "<p>Efficace pour éloigner les animaux errants ou agressifs. Je peux enfin marcher en paix. Je l'ai toujours sur moi! Il m'a<br/>sauvé plus d'une fois!</p>",
+            "content": "<p>J'avais peur que l'ultrason rende les chiens plus agressifs, mais au contraire, ils s'éloignent sans aucune réaction violente.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -225,9 +225,46 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Pierre E. 36 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je m'inquiétais de l'effet sur moi, mais l'appareil est totalement indolore pour l'humain, juste efficace pour repousser les chiens.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NfaLEj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_9f43a7c8-7789-412e-9f4e-5914d9bfa3e3.png",
+            "column_size": "3",
+            "title": "Natasha S. 35 ans",
+            "heading_tag": "h4",
+            "content": "<p>J'étais sceptique au début, mais il a fonctionné sur tous les chiens que j'ai croisés, même sur le chien de mon frère qui est têtu !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_t4AbQh": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Pierre E. 36 ans",
+            "heading_tag": "h4",
+            "content": "<p>Je m'inquiétais de l'effet sur moi, mais l'appareil est totalement indolore pour l'humain, juste efficace pour repousser les chiens.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BRaAJt": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Pierre E. 36 ans",
+            "heading_tag": "h4",
+            "content": "<p>Je m'inquiétais de l'effet sur moi, mais l'appareil est totalement indolore pour l'humain, juste efficace pour repousser les chiens.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -237,7 +274,10 @@
       "block_order": [
         "item_Xq7bhW",
         "item_EQ3cy8",
-        "item_gRTqBJ"
+        "item_gRTqBJ",
+        "item_NfaLEj",
+        "item_t4AbQh",
+        "item_BRaAJt"
       ],
       "name": "Multi-column",
       "settings": {
