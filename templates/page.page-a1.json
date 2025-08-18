@@ -446,12 +446,30 @@
             "content": "<p>La livraison sera effectuée à l<strong>'adresse que vous nous indiquerez</strong>. En fonction du volume de commandes à traiter, le délai de livraison est estimé entre 5 et 9 jours ouvrés.<br/></p>",
             "page": ""
           }
+        },
+        "tab_jWQhkr": {
+          "type": "tab",
+          "settings": {
+            "title": "Service Client 6j/7",
+            "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions <strong>six jours sur sept</strong>.</p><p>Vous pouvez nous contacter par <strong>email </strong>ou via le <strong>formulaire contact.</strong></p>",
+            "page": ""
+          }
+        },
+        "tab_TEQFxD": {
+          "type": "tab",
+          "settings": {
+            "title": "Charge Optimale",
+            "content": "<p>Pour garantir des performances optimales et une longue durée de vie de votre <strong>Furlyzo</strong>, nous vous recommandons de le charger en utilisant un dock de charge d’une puissance minimale de <strong>20W</strong> (charge rapide).</p><p>L’utilisation d’un chargeur rapide permet non seulement de réduire le temps de charge, mais également d’assurer une charge <strong>efficace et sécurisée</strong>. Cela est particulièrement important pour maintenir la performance et la durabilité de votre appareil.</p><p>Veuillez vérifier les spécifications de votre chargeur pour vous assurer qu’il répond à cette exigence. Une charge adéquate contribue à maximiser l’efficacité de votre <strong>Furlyzo</strong> et à prolonger sa durée de vie.</p><p>Merci pour votre compréhension et votre coopération.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_jxjNtb",
         "tab_mTEHVX",
-        "tab_wJmQAj"
+        "tab_wJmQAj",
+        "tab_jWQhkr",
+        "tab_TEQFxD"
       ],
       "name": "Tabs",
       "settings": {
