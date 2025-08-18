@@ -623,6 +623,7 @@
     },
     "contact_3L7tBg": {
       "type": "contact",
+      "disabled": true,
       "name": "Contact form",
       "settings": {
         "full_width": true,
