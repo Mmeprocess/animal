@@ -11,59 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "faq_aVYd46": {
-      "type": "faq",
-      "blocks": {
-        "item_EGCCrA": {
-          "type": "item",
-          "settings": {
-            "title": "Est ce que vous livrez è l'étranger ?",
-            "content": "<p>Oui, nous livrons également en<strong> Belgique et en Suisse</strong>. Les livraisons sont acheminées avec 2 à 4 jours supplémentaires.</p>"
-          }
-        },
-        "item_HnhegJ": {
-          "type": "item",
-          "settings": {
-            "title": "Quel est le délai de livraison ?",
-            "content": "<p>Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 9 jours ouvrés.</p>"
-          }
-        },
-        "item_hRfCHx": {
-          "type": "item",
-          "settings": {
-            "title": "Que faire si Furlyzo ne réponds pas à mes attentes ?",
-            "content": "<p>Nous sommes sûrs que vous allez adorer Furlyzo !</p><p>Toutefois, si vous n’êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons <strong>un remboursement complet !</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_EGCCrA",
-        "item_HnhegJ",
-        "item_hRfCHx"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "#2c3e50",
-        "background_gradient": "",
-        "text_color": "#f7f1e1",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "contact_x74RGT": {
       "type": "contact",
       "name": "Contact form",
@@ -206,7 +153,6 @@
     }
   },
   "order": [
-    "faq_aVYd46",
     "contact_x74RGT",
     "text-with-icons",
     "footer"
