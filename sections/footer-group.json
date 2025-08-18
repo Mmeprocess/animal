@@ -185,7 +185,7 @@
           "settings": {
             "title": "Nous contacter",
             "content": "<p>Service Client : contact@furlyzo.com</p><p>Horaires : Du Lundi au Samedi. De 9h à 19h.</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
