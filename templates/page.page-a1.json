@@ -261,8 +261,9 @@
         "item_BRaAJt": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Temoignage_1.png",
             "column_size": "3",
-            "title": "Kelly B. 25 ans",
+            "title": "Paul B. 25 ans",
             "heading_tag": "h4",
             "content": "<p>Je pensais que l'appareil serait compliqué, mais il est tellement simple à utiliser, je me sens en sécurité avec juste un bouton à presser.</p>",
             "link_url": "",
@@ -282,7 +283,7 @@
       "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "gap": "medium",
         "text_alignment": "start",
         "subheading": "",
