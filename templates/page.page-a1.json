@@ -156,6 +156,22 @@
         "button_text_color": ""
       }
     },
+    "image_with_text_overlay_h7wCGk": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_image": "shopify://shop_images/Angle_Peur.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "before_after_image_GFghiF": {
       "type": "before-after-image",
       "name": "Before/after image",
@@ -494,6 +510,7 @@
     "image_with_text_overlay_dqRapt",
     "logo_list_DEAQVG",
     "impact_text_TFXAWQ",
+    "image_with_text_overlay_h7wCGk",
     "before_after_image_GFghiF",
     "multi_column_DxJpcX",
     "featured_product_JCTVft",
