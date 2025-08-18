@@ -211,6 +211,7 @@
         "item_gRTqBJ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/homme_jeune.png",
             "column_size": "3",
             "title": "Pierre E. 36 ans",
             "heading_tag": "h4",
@@ -236,7 +237,7 @@
         "item_t4AbQh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/20250818_1046_Produit_tenu_avec_joie_remix_01k2yxmshfecwsgkh7d7xe77ad.png",
+            "image": "shopify://shop_images/femme_jeune.png",
             "column_size": "3",
             "title": "Chloé D. 27 ans",
             "heading_tag": "h4",
@@ -249,7 +250,7 @@
         "item_BRaAJt": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Temoignage_1.png",
+            "image": "shopify://shop_images/chien_Photos_temoignage.png",
             "column_size": "3",
             "title": "Paul B. 25 ans",
             "heading_tag": "h4",
