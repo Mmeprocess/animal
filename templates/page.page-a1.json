@@ -19,30 +19,16 @@
     "image_with_text_overlay_dqRapt": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_DKVccV": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_4x4FMW": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Maîtriser tous chiens agressifs en un Clic!",
             "heading_tag": "h1"
-          }
-        },
-        "richtext_qVPEYJ": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_DKVccV",
-        "heading_4x4FMW",
-        "richtext_qVPEYJ"
+        "heading_4x4FMW"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -50,6 +36,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/8_cb78230e-9805-462e-acc1-0df6bc5ea6f1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -103,13 +90,13 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Ils en parlent :",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 5,
-        "background": "",
+        "background": "#2c3e50",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#f7f1e1",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "",
