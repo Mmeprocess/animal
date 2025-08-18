@@ -142,12 +142,12 @@
         "text_alignment": "center",
         "impact_text_style": "fill",
         "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
+        "impact_text_size_ratio": 0.6,
+        "background": "#f7f1e1",
         "background_gradient": "",
         "heading_text_color": "",
         "heading_gradient": "",
-        "text_color": "",
+        "text_color": "#2c3e50",
         "button_background": "",
         "button_text_color": ""
       }
@@ -175,17 +175,17 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "title": "Résultat Avant/Après",
+        "content": "",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
         "before_text": "Before",
         "after_text": "After",
         "drag_initial_position": 50,
-        "background": "",
+        "background": "#f7f1e1",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#2c3e50",
         "before_text_color": "#ffffff",
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
@@ -285,13 +285,13 @@
         "full_width": true,
         "stack_on_mobile": true,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
-        "title": "Nos clients en parlent",
+        "title": "Nos clients en parlent le mieux",
         "content": "",
-        "background": "",
+        "background": "#f7f1e1",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#2c3e50"
       }
     },
     "featured_product_JCTVft": {
@@ -305,13 +305,13 @@
         },
         "title_fGwMNR": {
           "type": "title",
-          "disabled": true,
           "settings": {
             "heading_tag": "h2"
           }
         },
         "description_iLGjeB": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -331,17 +331,6 @@
         "separator_3XzKij": {
           "type": "separator",
           "settings": {}
-        },
-        "variant_picker_TmNiwU": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
         },
         "kaching_bundles_app_block_azJDH7": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
@@ -394,7 +383,6 @@
         "badges_9GXt3q",
         "rating_aUcqL6",
         "separator_3XzKij",
-        "variant_picker_TmNiwU",
         "kaching_bundles_app_block_azJDH7",
         "image_Yj9xdP",
         "liquid_JUBxYG",
@@ -413,10 +401,10 @@
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
+        "max_image_zoom_level": 2.5,
+        "background": "#2c3e50",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#f7f1e1",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
