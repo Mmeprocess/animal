@@ -352,6 +352,10 @@
             "payment_button_text_color": ""
           }
         },
+        "conversion_bear_trust_badges_widget_hFVFJ4": {
+          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {}
+        },
         "liquid_JUBxYG": {
           "type": "liquid",
           "settings": {
@@ -386,6 +390,7 @@
         "separator_3XzKij",
         "kaching_bundles_app_block_azJDH7",
         "buy_buttons_mjWRnY",
+        "conversion_bear_trust_badges_widget_hFVFJ4",
         "liquid_JUBxYG",
         "image_Yj9xdP",
         "image_FwagtB"
