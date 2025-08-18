@@ -63,6 +63,7 @@
         "logo_jDgeYA": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo_le_monde.png",
             "logo_width": 120,
             "link": ""
           }
@@ -70,6 +71,7 @@
         "logo_PeB3wH": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo_veto.png",
             "logo_width": 120,
             "link": ""
           }
@@ -77,6 +79,7 @@
         "logo_EhCWpL": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/choisir-un-chien-logo-footer.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -84,13 +87,7 @@
         "logo_9tTyhr": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_VXYHWL": {
-          "type": "logo",
-          "settings": {
+            "logo": "shopify://shop_images/LOGO_BFMT.png",
             "logo_width": 120,
             "link": ""
           }
@@ -100,8 +97,7 @@
         "logo_jDgeYA",
         "logo_PeB3wH",
         "logo_EhCWpL",
-        "logo_9tTyhr",
-        "logo_VXYHWL"
+        "logo_9tTyhr"
       ],
       "name": "Logo list",
       "settings": {
@@ -164,6 +160,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Angle_Peur.png",
         "mobile_image": "shopify://shop_images/Angle_Peur.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
