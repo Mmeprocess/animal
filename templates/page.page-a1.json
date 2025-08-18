@@ -506,6 +506,20 @@
     "faq_CcMU7X": {
       "type": "faq",
       "blocks": {
+        "item_LnRQL7": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que l'ultrason va rendre les chiens plus agressifs ?",
+            "content": "<p>Non, l'ultrason n'est pas violent. Il est conçu pour être une <strong>solution douce et non agressive </strong>qui repousse les chiens sans leur causer de mal, tout en les i<strong>ncitant à s'éloigner.</strong></p>"
+          }
+        },
+        "item_DCXnBH": {
+          "type": "item",
+          "settings": {
+            "title": "\"L'appareil est-il sans danger pour moi ?",
+            "content": "<p>Oui, l'appareil utilise des ultrasons spécialement conçus pour être <strong>inaudibles et non nuisibles pour les humains et les chiens</strong>. Il est totalement sans danger pour vous.<br/></p>"
+          }
+        },
         "item_FXnLnT": {
           "type": "item",
           "settings": {
@@ -526,28 +540,14 @@
             "title": "Que faire si Furlyzo ne réponds pas à mes attentes ?",
             "content": "<p>Nous sommes sûrs que vous allez adorer Furlyzo !</p><p>Toutefois, si vous n’êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons <strong>un remboursement complet !</strong></p>"
           }
-        },
-        "item_LnRQL7": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que l'ultrason va rendre les chiens plus agressifs ?",
-            "content": "<p>Non, l'ultrason n'est pas violent. Il est conçu pour être une <strong>solution douce et non agressive </strong>qui repousse les chiens sans leur causer de mal, tout en les i<strong>ncitant à s'éloigner.</strong></p>"
-          }
-        },
-        "item_DCXnBH": {
-          "type": "item",
-          "settings": {
-            "title": "\"L'appareil est-il sans danger pour moi ?",
-            "content": "<p>Oui, l'appareil utilise des ultrasons spécialement conçus pour être <strong>inaudibles et non nuisibles pour les humains et les chiens</strong>. Il est totalement sans danger pour vous.<br/></p>"
-          }
         }
       },
       "block_order": [
+        "item_LnRQL7",
+        "item_DCXnBH",
         "item_FXnLnT",
         "item_kK8eBd",
-        "item_DtKQ7F",
-        "item_LnRQL7",
-        "item_DCXnBH"
+        "item_DtKQ7F"
       ],
       "name": "FAQ",
       "settings": {
