@@ -442,8 +442,8 @@
         "tab_wJmQAj": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Livraison Gratuite",
+            "content": "<p>La livraison sera effectuée à l<strong>'adresse que vous nous indiquerez</strong>. En fonction du volume de commandes à traiter, le délai de livraison est estimé entre 5 et 9 jours ouvrés.<br/></p>",
             "page": ""
           }
         }
