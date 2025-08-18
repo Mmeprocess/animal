@@ -60,10 +60,10 @@
     "logo_list_DEAQVG": {
       "type": "logo-list",
       "blocks": {
-        "logo_jDgeYA": {
+        "logo_9tTyhr": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo_le_monde.png",
+            "logo": "shopify://shop_images/LOGO_BFMT.png",
             "logo_width": 120,
             "link": ""
           }
@@ -76,6 +76,14 @@
             "link": ""
           }
         },
+        "logo_jDgeYA": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_le_monde.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
         "logo_EhCWpL": {
           "type": "logo",
           "settings": {
@@ -83,21 +91,13 @@
             "logo_width": 120,
             "link": ""
           }
-        },
-        "logo_9tTyhr": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/LOGO_BFMT.png",
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "logo_jDgeYA",
+        "logo_9tTyhr",
         "logo_PeB3wH",
-        "logo_EhCWpL",
-        "logo_9tTyhr"
+        "logo_jDgeYA",
+        "logo_EhCWpL"
       ],
       "name": "Logo list",
       "settings": {
@@ -122,8 +122,8 @@
         "item_BVe7i3": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "title": "Furlyzo vous protège partout",
+            "subheading": "",
             "content": "",
             "button_text": "",
             "button_url": "",
