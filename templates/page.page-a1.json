@@ -166,7 +166,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "before_after_image_GFghiF": {
@@ -305,6 +305,7 @@
         },
         "title_fGwMNR": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "heading_tag": "h2"
           }
@@ -404,7 +405,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "mon-produit",
+        "product": "furlyzo-angle-peur",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
