@@ -156,13 +156,39 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_X8FjfK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_F6rWLy": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultat Avant/Après",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_F6rWLy"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#f7f1e1",
+        "background_gradient": "",
+        "text_color": "#2c3e50"
+      }
+    },
     "before_after_image_GFghiF": {
       "type": "before-after-image",
       "name": "Before/after image",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Résultat Avant/Après",
+        "title": "",
         "content": "",
         "before_image": "shopify://shop_images/chien_agressif.png",
         "before_image_mobile": "shopify://shop_images/chien_agressif.png",
@@ -581,6 +607,7 @@
     "logo_list_DEAQVG",
     "impact_text_TFXAWQ",
     "image_with_text_overlay_h7wCGk",
+    "rich_text_X8FjfK",
     "before_after_image_GFghiF",
     "multi_column_DxJpcX",
     "featured_product_JCTVft",
