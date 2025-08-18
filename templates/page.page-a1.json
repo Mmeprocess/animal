@@ -198,10 +198,11 @@
         "item_Xq7bhW": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/5_1ceb075e-bc3f-4bc4-95e2-17939cdb3b11.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Judith B. 42 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Offert à mon mari qui rencontre souvent des chiens agressifs durant son jogging. Il a parvenu à effrayer un chien qui était à 15 mètre de lui. Le chien errant a laissé mon mari tranquille.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -210,10 +211,11 @@
         "item_EQ3cy8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4_4f0fe19f-b4c7-4583-a519-8e4fb7841895.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Cédric G. 29 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Efficace pour éloigner les animaux errants ou agressifs. Je peux enfin marcher en paix. Je l'ai toujours sur moi! Il m'a<br/>sauvé plus d'une fois!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -243,9 +245,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "subheading": "",
+        "title": "Nos clients en parlent",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
