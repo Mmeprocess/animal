@@ -208,17 +208,42 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "rich_text_MaqRFa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_q3eyP3": {
+          "type": "heading",
+          "settings": {
+            "text": "Votre Chien se Calme en 1 clic",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_q3eyP3"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#2c3e50",
+        "background_gradient": "",
+        "text_color": "#f7f1e1"
+      }
+    },
     "video_6Fj8Rh": {
       "type": "video",
-      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/AVANTAPRES.mp4",
-        "mobile_video": "shopify://files/videos/AVANTAPRES.mp4",
+        "video": "shopify://files/videos/v2 video produit en action.mp4",
+        "mobile_video": "shopify://files/videos/v2 video produit en action.mp4",
         "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -679,6 +704,7 @@
     "image_with_text_overlay_RKjBWE",
     "rich_text_VeWWKn",
     "before_after_image_B8MdjA",
+    "rich_text_MaqRFa",
     "video_6Fj8Rh",
     "multi_column_ddYdjH",
     "featured-product",
