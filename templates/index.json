@@ -201,9 +201,9 @@
         "drag_initial_position": 50,
         "background": "#2c3e50",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
+        "text_color": "#ffffff",
+        "before_text_color": "#2c3e50",
+        "after_text_color": "#2c3e50",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
