@@ -99,8 +99,8 @@
         "text_color": "#f7f1e1",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "logo_item_background": "#f7f1e1",
+        "logo_item_border": "#f7f1e1"
       }
     },
     "impact_text_TFXAWQ": {
@@ -302,7 +302,7 @@
       "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
+        "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
