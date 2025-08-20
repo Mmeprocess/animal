@@ -209,32 +209,53 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "image_with_text_overlay_wBtWi8": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_gDhJTN": {
+          "type": "heading",
+          "settings": {
+            "text": "Protégez-vous immédiatement des chiens menaçants",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gDhJTN"
+      ],
+      "disabled": true,
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/8_cb78230e-9805-462e-acc1-0df6bc5ea6f1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "video_MQeiRd": {
       "type": "video",
       "blocks": {
         "play_zCihCP": {
           "type": "play",
           "settings": {}
-        },
-        "heading_6Ykdmq": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
         }
       },
       "block_order": [
-        "play_zCihCP",
-        "heading_6Ykdmq"
+        "play_zCihCP"
       ],
       "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/video produit action.mp4",
+        "video": "shopify://files/videos/v2 video produit en action.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -641,6 +662,7 @@
     "image_with_text_overlay_h7wCGk",
     "rich_text_X8FjfK",
     "before_after_image_GFghiF",
+    "image_with_text_overlay_wBtWi8",
     "video_MQeiRd",
     "multi_column_DxJpcX",
     "featured_product_JCTVft",
