@@ -198,7 +198,7 @@
         "before_after_text_position": "top",
         "before_text": "Avant",
         "after_text": "Après",
-        "drag_initial_position": 50,
+        "drag_initial_position": 76,
         "background": "#2c3e50",
         "background_gradient": "",
         "text_color": "#ffffff",
