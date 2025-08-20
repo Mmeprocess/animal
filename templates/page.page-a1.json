@@ -182,6 +182,59 @@
         "text_color": "#2c3e50"
       }
     },
+    "before_after_image_GFghiF": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/chien_agressif.png",
+        "before_image_mobile": "shopify://shop_images/chien_agressif.png",
+        "after_image": "shopify://shop_images/chien_calme.png",
+        "after_image_mobile": "shopify://shop_images/chien_calme.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 74,
+        "background": "#2c3e50",
+        "background_gradient": "",
+        "text_color": "#f7f1e1",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "rich_text_VbnaRw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VBc7Wz": {
+          "type": "heading",
+          "settings": {
+            "text": "En 1 Clic, le chien se calme",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_VBc7Wz"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#2c3e50",
+        "background_gradient": "",
+        "text_color": "#f7f1e1"
+      }
+    },
     "video_MQeiRd": {
       "type": "video",
       "blocks": {
@@ -204,33 +257,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "before_after_image_GFghiF": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Résultat Avant/Après",
-        "content": "",
-        "before_image": "shopify://shop_images/chien_agressif.png",
-        "before_image_mobile": "shopify://shop_images/chien_agressif.png",
-        "after_image": "shopify://shop_images/chien_calme.png",
-        "after_image_mobile": "shopify://shop_images/chien_calme.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 74,
-        "background": "#2c3e50",
-        "background_gradient": "",
-        "text_color": "#f7f1e1",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
       }
     },
     "multi_column_DxJpcX": {
@@ -632,8 +658,9 @@
     "impact_text_TFXAWQ",
     "image_with_text_overlay_h7wCGk",
     "rich_text_X8FjfK",
-    "video_MQeiRd",
     "before_after_image_GFghiF",
+    "rich_text_VbnaRw",
+    "video_MQeiRd",
     "multi_column_DxJpcX",
     "featured_product_JCTVft",
     "tabs_jX3J7A",
