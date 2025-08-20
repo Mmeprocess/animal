@@ -215,7 +215,7 @@
         "heading_VBc7Wz": {
           "type": "heading",
           "settings": {
-            "text": "En 1 Clic, le Chien se Calme",
+            "text": "En 1 Clic, vous vous protégez des chiens",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -252,7 +252,7 @@
         "allow_transparent_header": false,
         "autoplay": false,
         "video_size": "auto",
-        "video": "shopify://files/videos/v2 video produit en action.mp4",
+        "video": "shopify://files/videos/video angle peur.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
