@@ -182,33 +182,6 @@
         "text_color": "#2c3e50"
       }
     },
-    "before_after_image_GFghiF": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "before_image": "shopify://shop_images/chien_agressif.png",
-        "before_image_mobile": "shopify://shop_images/chien_agressif.png",
-        "after_image": "shopify://shop_images/chien_calme.png",
-        "after_image_mobile": "shopify://shop_images/chien_calme.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 74,
-        "background": "#2c3e50",
-        "background_gradient": "",
-        "text_color": "#f7f1e1",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "video_MQeiRd": {
       "type": "video",
       "blocks": {
@@ -231,6 +204,33 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "before_after_image_GFghiF": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Résultat Avant/Après",
+        "content": "",
+        "before_image": "shopify://shop_images/chien_agressif.png",
+        "before_image_mobile": "shopify://shop_images/chien_agressif.png",
+        "after_image": "shopify://shop_images/chien_calme.png",
+        "after_image_mobile": "shopify://shop_images/chien_calme.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 74,
+        "background": "#2c3e50",
+        "background_gradient": "",
+        "text_color": "#f7f1e1",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "multi_column_DxJpcX": {
