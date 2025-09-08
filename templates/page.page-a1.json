@@ -557,13 +557,21 @@
     "1757324950c04db472": {
       "type": "apps",
       "blocks": {
-        "vitals_reviews_carousel_cQ78Xn": {
-          "type": "shopify://apps/vitals/blocks/reviews-carousel/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {}
+        "loox_reviews_loox_agg_section_iVbQzh": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
         }
       },
       "block_order": [
-        "vitals_reviews_carousel_cQ78Xn"
+        "loox_reviews_loox_agg_section_iVbQzh"
       ],
       "settings": {
         "full_width": true,
