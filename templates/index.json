@@ -103,9 +103,9 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#2c3e50",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
-        "text_color": "#f7f1e1",
+        "text_color": "#1a1a1a",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "#f7f1e1",
@@ -178,7 +178,7 @@
         "text_position": "center",
         "background": "#f7f1e1",
         "background_gradient": "",
-        "text_color": "#2c3e50"
+        "text_color": "#1a1a1a"
       }
     },
     "before_after_image_B8MdjA": {
@@ -199,11 +199,11 @@
         "before_text": "Avant",
         "after_text": "Après",
         "drag_initial_position": 76,
-        "background": "#2c3e50",
+        "background": "#f7f1e1",
         "background_gradient": "",
         "text_color": "#ffffff",
-        "before_text_color": "#2c3e50",
-        "after_text_color": "#2c3e50",
+        "before_text_color": "#000000",
+        "after_text_color": "#000000",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
@@ -229,9 +229,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#2c3e50",
+        "background": "#f7f1e1",
         "background_gradient": "",
-        "text_color": "#f7f1e1"
+        "text_color": "#000000"
       }
     },
     "video_6Fj8Rh": {
@@ -351,7 +351,7 @@
         "content": "",
         "background": "#f7f1e1",
         "background_gradient": "",
-        "text_color": "#2c3e50"
+        "text_color": "#000000"
       }
     },
     "featured-product": {
@@ -453,7 +453,7 @@
         "image_E4GJpm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/V2_badge.png",
+            "image": "shopify://shop_images/logos_badge.png",
             "alignment": "center",
             "max_width": 300
           }
@@ -487,9 +487,9 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "#2c3e50",
+        "background": "#f7f1e1",
         "background_gradient": "",
-        "text_color": "#f7f1e1",
+        "text_color": "#000000",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
@@ -553,9 +553,9 @@
         "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
-        "background": "#2c3e50",
+        "background": "#f7f1e1",
         "background_gradient": "",
-        "text_color": "#f7f1e1",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": ""
       }
@@ -683,9 +683,9 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#2c3e50",
+        "background": "#f7f1e1",
         "background_gradient": "",
-        "text_color": "#f7f1e1",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
