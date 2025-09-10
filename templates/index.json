@@ -120,7 +120,7 @@
           "settings": {
             "text": "Furlyzo est avec vous au quotidien",
             "heading_tag": "h2",
-            "text_color": "#2c3e50",
+            "text_color": "#000000",
             "gradient": ""
           }
         }
