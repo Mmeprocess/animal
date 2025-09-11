@@ -410,6 +410,12 @@
             "text": "<h6>✅ <strong>Indolore, 100% sûr et facile à utiliser</strong></h6>"
           }
         },
+        "essential_countdown_timer_app_block_6CjRWR": {
+          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmffsctz0000w78x9vl7ncflz"
+          }
+        },
         "buy_buttons_QYrKNr": {
           "type": "buy_buttons",
           "settings": {
@@ -475,6 +481,7 @@
         "separator",
         "kaching_bundles_app_block_DPmJLB",
         "text_fAcBAn",
+        "essential_countdown_timer_app_block_6CjRWR",
         "buy_buttons_QYrKNr",
         "conversion_bear_trust_badges_widget_gc9fRN",
         "variant-picker",
