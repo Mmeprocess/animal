@@ -160,5 +160,11 @@
       "product_color_display": "swatch",
       "product_info_alignment": "center"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".shopify-payment-button__button--unbranded,button.shopify-payment-button__button {background-color: #6BA292 !important; /* vert sauge */ color: #FFFFFF !important; /* texte blanc */ border: none !important; /* supprime le contour */ border-radius: 6px !important; /* arrondis léger */ font-weight: bold !important;}",
+      ".shopify-payment-button__button--unbranded:hover {background-color: #58887B !important; /* vert un peu plus foncé au hover */}"
+    ]
   }
 }
