@@ -422,15 +422,15 @@
             "text": "<h4>  Disponible uniquement avec le Pack Duo ou Trio</h4>"
           }
         },
-        "buy_buttons_QYrKNr": {
+        "buy_buttons_7TmUJX": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "#f0c417",
-            "atc_button_text_color": "#6ba292",
-            "payment_button_background": "#f0c417",
-            "payment_button_text_color": "#6ba292"
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "#2c3e50",
+            "payment_button_text_color": "#2c3e50"
           }
         },
         "conversion_bear_trust_badges_widget_gc9fRN": {
@@ -489,7 +489,7 @@
         "text_fAcBAn",
         "essential_countdown_timer_app_block_6CjRWR",
         "text_8kt8pU",
-        "buy_buttons_QYrKNr",
+        "buy_buttons_7TmUJX",
         "conversion_bear_trust_badges_widget_gc9fRN",
         "variant-picker",
         "liquid_riMTpV",
