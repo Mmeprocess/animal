@@ -416,6 +416,12 @@
             "id": "cmffsctz0000w78x9vl7ncflz"
           }
         },
+        "text_8kt8pU": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Disponible uniquement avec le Pack Duo ou Trio</h4>"
+          }
+        },
         "buy_buttons_QYrKNr": {
           "type": "buy_buttons",
           "settings": {
@@ -482,6 +488,7 @@
         "kaching_bundles_app_block_DPmJLB",
         "text_fAcBAn",
         "essential_countdown_timer_app_block_6CjRWR",
+        "text_8kt8pU",
         "buy_buttons_QYrKNr",
         "conversion_bear_trust_badges_widget_gc9fRN",
         "variant-picker",
