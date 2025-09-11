@@ -103,13 +103,13 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "rgba(0,0,0,0)",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#1a1a1a",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
-        "logo_item_border": "#2c3e50"
+        "logo_item_border": "#e8e8e8"
       }
     },
     "rich_text_iN8PCd": {
