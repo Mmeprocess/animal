@@ -22,6 +22,7 @@
     "header_text_color": "#2c3e50",
     "footer_background": "#f7f1e1",
     "footer_text_color": "#2a2a2a",
+    "dialog_background": "#ffffff",
     "primary_button_background": "#1a1a1a",
     "primary_button_text_color": "#ffffff",
     "secondary_button_background": "#f0c417",
@@ -163,8 +164,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".shopify-payment-button__button--unbranded,button.shopify-payment-button__button {background-color: #6BA292 !important; /* vert sauge */ color: #FFFFFF !important; /* texte blanc */ border: none !important; /* supprime le contour */ border-radius: 6px !important; /* arrondis léger */ font-weight: bold !important;}",
-      ".shopify-payment-button__button--unbranded:hover {background-color: #58887B !important; /* vert un peu plus foncé au hover */}"
+      ".shopify-payment-button__button--unbranded {background-color: #6ba292 !important; /* ton vert sauge */ color: #ffffff !important; /* texte blanc */ border: none !important; /* supprime le contour */ border-radius: 8px !important; /* arrondi harmonieux */ font-weight: 600 !important; padding: 14px 22px !important; font-size: 16px !important;}",
+      ".shopify-payment-button__button--unbranded:hover {background-color: #58887b !important; /* vert foncé au hover */}"
     ]
   }
 }
