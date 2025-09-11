@@ -27,11 +27,19 @@
             "text": "Livraison Offerte dès 2 Furlyzo achetés !",
             "url": ""
           }
+        },
+        "message_TmnyQg": {
+          "type": "message",
+          "settings": {
+            "text": "Offre spéciale rentrée",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_hnMzKp"
+        "message_hnMzKp",
+        "message_TmnyQg"
       ],
       "settings": {
         "enable_sticky": false,

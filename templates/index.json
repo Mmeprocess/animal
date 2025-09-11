@@ -404,6 +404,12 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "text_fAcBAn": {
+          "type": "text",
+          "settings": {
+            "text": "<h6>✅ <strong>Indolore, 100% sûr et facile à utiliser</strong></h6>"
+          }
+        },
         "buy_buttons_QYrKNr": {
           "type": "buy_buttons",
           "settings": {
@@ -468,6 +474,7 @@
         "image_cMMgg8",
         "separator",
         "kaching_bundles_app_block_DPmJLB",
+        "text_fAcBAn",
         "buy_buttons_QYrKNr",
         "conversion_bear_trust_badges_widget_gc9fRN",
         "variant-picker",
