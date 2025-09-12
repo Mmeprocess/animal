@@ -427,8 +427,8 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "atc_button_background": "#6ba292",
+            "atc_button_text_color": "#6ba292",
             "payment_button_background": "#2c3e50",
             "payment_button_text_color": "#2c3e50"
           }
