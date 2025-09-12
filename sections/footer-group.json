@@ -21,8 +21,8 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#f7f1e1",
-            "icon_color": "#2c3e50",
+            "icon_background": "#2c3e50",
+            "icon_color": "#f7f1e1",
             "title": "Livraison Gratuite",
             "content": ""
           }
@@ -73,7 +73,6 @@
         "customer-support",
         "payment"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -81,9 +80,9 @@
         "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "#2c3e50",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#f7f1e1"
+        "text_color": "#2c3e50"
       }
     },
     "footer": {
@@ -120,7 +119,6 @@
         "links",
         "text"
       ],
-      "disabled": true,
       "settings": {
         "show_social_media": false,
         "show_payment_icons": true,
