@@ -50,7 +50,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 4
+        "overlay_opacity": 25
       }
     },
     "logo_list_TDQwbg": {
@@ -711,7 +711,7 @@
         "heading_gradient": "",
         "button_background": "#2c3e50",
         "button_text_color": "",
-        "accordion_background": "",
+        "accordion_background": "#f7f1e1",
         "accordion_text_color": ""
       }
     },
