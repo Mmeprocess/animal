@@ -27,19 +27,11 @@
             "text": "Livraison Offerte pour TOUS les Packs avant 00h !",
             "url": ""
           }
-        },
-        "message_TmnyQg": {
-          "type": "message",
-          "settings": {
-            "text": "Offre spéciale rentrée",
-            "url": ""
-          }
         }
       },
       "block_order": [
         "message",
-        "message_hnMzKp",
-        "message_TmnyQg"
+        "message_hnMzKp"
       ],
       "settings": {
         "enable_sticky": false,
