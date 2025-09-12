@@ -11,27 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "contact_x74RGT": {
-      "type": "contact",
-      "name": "Contact form",
-      "settings": {
-        "full_width": true,
-        "subheading": "Notre service clientèle est disponible 6j/7. Temps de réponse moyen : 24h",
-        "title": "Une question?",
-        "content": "<p>Écrivez-vous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
-        "text_position": "center",
-        "contact_form_size": "large",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#000000",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "#ffffff",
-        "contact_text_color": "",
-        "button_background": "#2c3e50",
-        "button_text_color": "#2c3e50"
-      }
-    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -153,7 +132,6 @@
     }
   },
   "order": [
-    "contact_x74RGT",
     "text-with-icons",
     "footer"
   ]
