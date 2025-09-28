@@ -22,7 +22,7 @@
             "icon_width": 24,
             "icon_background_type": "circle",
             "icon_background": "#f7f1e1",
-            "icon_color": "#2c3e50",
+            "icon_color": "#2a2a2a",
             "title": "Livraison Gratuite",
             "content": ""
           }
@@ -82,7 +82,7 @@
         "icon_spacing": "small",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#2c3e50"
+        "text_color": "#2a2a2a"
       }
     },
     "footer": {
