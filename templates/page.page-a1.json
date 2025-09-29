@@ -22,7 +22,7 @@
         "heading_4x4FMW": {
           "type": "heading",
           "settings": {
-            "text": "Protégez-vous immédiatement des chiens menaçants",
+            "text": "Évitez 2000€ de frais vétérinaires avec 1 lingette",
             "heading_tag": "h1"
           }
         }
@@ -133,7 +133,7 @@
         "background_gradient": "",
         "heading_text_color": "",
         "heading_gradient": "",
-        "text_color": "#2c3e50",
+        "text_color": "#2a2a2a",
         "button_background": "",
         "button_text_color": ""
       }
@@ -178,7 +178,7 @@
         "text_position": "center",
         "background": "#f7f1e1",
         "background_gradient": "",
-        "text_color": "#2c3e50"
+        "text_color": "#2a2a2a"
       }
     },
     "before_after_image_GFghiF": {
@@ -195,7 +195,7 @@
         "before_text": "Avant",
         "after_text": "Après",
         "drag_initial_position": 74,
-        "background": "#2c3e50",
+        "background": "#f7f1e1",
         "background_gradient": "",
         "text_color": "#f7f1e1",
         "before_text_color": "#ffffff",
@@ -225,9 +225,9 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#2c3e50",
+        "background": "#f7f1e1",
         "background_gradient": "",
-        "text_color": "#f7f1e1"
+        "text_color": "#2a2a2a"
       }
     },
     "video_MQeiRd": {
