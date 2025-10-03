@@ -216,8 +216,8 @@
         "heading_VBc7Wz": {
           "type": "heading",
           "settings": {
-            "text": "En 1 Clic, vous vous protégez des chiens",
-            "heading_tag": "h2",
+            "text": "Comment utiliser FreshCrocs en 30 sec ?",
+            "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
           }
@@ -430,14 +430,6 @@
           "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
           "settings": {}
         },
-        "image_Yj9xdP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Angle_peur_cadeau_547bcd00-18bf-4a44-9b1c-11d9d9e8c719.png",
-            "alignment": "center",
-            "max_width": 490
-          }
-        },
         "image_FwagtB": {
           "type": "image",
           "settings": {
@@ -459,7 +451,6 @@
         "kaching_bundles_app_block_azJDH7",
         "buy_buttons_mjWRnY",
         "conversion_bear_trust_badges_widget_hFVFJ4",
-        "image_Yj9xdP",
         "image_FwagtB"
       ],
       "name": "Featured product",
