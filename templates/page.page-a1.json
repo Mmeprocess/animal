@@ -22,7 +22,7 @@
         "heading_4x4FMW": {
           "type": "heading",
           "settings": {
-            "text": "Évitez 2000€ de frais vétérinaires avec 1 lingette",
+            "text": "Des dents saines pour un chien en pleine santé",
             "heading_tag": "h1"
           }
         }
@@ -38,7 +38,7 @@
         "image_size": "auto",
         "image": "shopify://shop_images/test_accueil.png",
         "mobile_image": "shopify://shop_images/test_accueil.png",
-        "mobile_text_position": "place-self-center text-center",
+        "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -95,13 +95,13 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#2c3e50",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#f7f1e1",
+        "text_color": "#2a2a2a",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#f7f1e1",
-        "logo_item_border": "#f7f1e1"
+        "logo_item_background": "#ffffff",
+        "logo_item_border": "#ffffff"
       }
     },
     "impact_text_TFXAWQ": {
@@ -148,8 +148,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/v2Angle_Peur.png",
-        "mobile_image": "shopify://shop_images/v2Angle_Peur_6f536cc0-c901-44a2-a1b9-4fe9bc78f209.png",
+        "image": "shopify://shop_images/Benefice_produit.svg",
+        "mobile_image": "shopify://shop_images/Benefice_produit.svg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
