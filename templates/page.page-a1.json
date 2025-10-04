@@ -277,9 +277,9 @@
         "item_EQ3cy8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/doigt_avec_lingette.jpg",
+            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_13.jpg",
             "column_size": "3",
-            "title": "Cédric G. 29 ans",
+            "title": "Cédric G. 39 ans",
             "heading_tag": "h4",
             "content": "<p><em><br/>Mon chien déteste la brosse à dents, mais il se laisse faire avec les lingettes, c’est devenu un moment facile.<br/><br/></em></p>",
             "link_url": "",
@@ -290,9 +290,9 @@
         "item_gRTqBJ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_9.jpg",
+            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_11.jpg",
             "column_size": "3",
-            "title": "Pierre E. 36 ans",
+            "title": "Pierre E. 52 ans",
             "heading_tag": "h4",
             "content": "<p><em><br/>Depuis que je les utilise, mon chien n'a plus de mauvaises haleines<br/><br/></em></p>",
             "link_url": "",
@@ -303,9 +303,9 @@
         "item_NfaLEj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_11.jpg",
+            "image": "shopify://shop_images/Skarmavbild_2025-06-20_kl.jpg",
             "column_size": "3",
-            "title": "Natasha S. 35 ans",
+            "title": "Natasha S. 50 ans",
             "heading_tag": "h4",
             "content": "<p><br/>J’avais essayé les jouets à mâcher, mais les lingettes donnent un résultat immédiat et visible.<br/><br/></p>",
             "link_url": "",
@@ -316,7 +316,7 @@
         "item_t4AbQh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/doigt_avec_lingette.jpg",
+            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_9.jpg",
             "column_size": "3",
             "title": "Chloé D. 27 ans",
             "heading_tag": "h4",
@@ -329,8 +329,9 @@
         "item_BRaAJt": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/doigt_avec_lingette.jpg",
             "column_size": "3",
-            "title": "Paul B. 25 ans",
+            "title": "Paul B. 32 ans",
             "heading_tag": "h4",
             "content": "<p><em>Elles sont toutes douces, je suis rassuré de ne rien mettre de nocif dans la bouche de mon chien César.</em></p>",
             "link_url": "",
