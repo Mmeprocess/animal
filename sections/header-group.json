@@ -27,11 +27,19 @@
             "text": "Offre Spéciale : 1 Acheté + 1 Offert !",
             "url": ""
           }
+        },
+        "message_eTirXt": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison Gratuite jusqu'au 10/10",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_hnMzKp"
+        "message_hnMzKp",
+        "message_eTirXt"
       ],
       "settings": {
         "enable_sticky": false,
