@@ -259,6 +259,47 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_4DCVgh": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_6PHKzQ": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_fmLQ8x": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_4kzQCT": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_6PHKzQ",
+        "heading_fmLQ8x",
+        "richtext_4kzQCT"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "multi_column_DxJpcX": {
       "type": "multi-column",
       "blocks": {
@@ -485,7 +526,7 @@
           "type": "tab",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<ul><li>Portée effective : jusqu’à 3 mètres</li><li>Technologie 2-en-1 : ultrason + éclairage LED intégré</li><li>Batterie rechargeable USB-C — autonomie longue durée</li><li>Temps de charge : ~1 heure</li><li>Dimensions compactes — tient dans la main</li><li>Poids léger : environ 90 g</li><li>Matériau : plastique ABS résistant aux chocs</li><li>Inoffensif pour l’animal et l’utilisateur</li><li>Indicateur LED pour batterie et activation</li></ul>",
+            "content": "<p><br/>Nos lingettes sont imbibées d’une solution nettoyante douce à base d’<strong>eau purifiée</strong>, d’<strong>extraits naturels de romarin et d’hamamélis</strong>, connus pour leurs propriétés <strong>purifiantes et apaisantes</strong>.<br/><br/>Elles contiennent également un <strong>agent antibactérien sûr</strong> pour éliminer les mauvaises odeurs et prévenir la plaque dentaire.<br/><br/>Sans alcool agressif, sans rinçage, <strong>adapté à tous les chiens, même les plus sensibles</strong>.<br/><br/></p>",
             "page": ""
           }
         },
@@ -493,7 +534,7 @@
           "type": "tab",
           "settings": {
             "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p>Essayez le Furlyzo sans risque pendant <strong>30 jours. </strong>Si vous n’êtes pas complètement satisfait de votre Furlyzo, vous avez la possibilité de le retourner et vous <strong>recevrez un remboursement intégral.</strong></p>",
+            "content": "<p><br/>Testez nos lingettes dentaires pendant 30 jours !<br/><br/>Si vous n’êtes pas satisfait, vous êtes remboursé — sans conditions.<br/><br/></p>",
             "page": ""
           }
         },
@@ -516,8 +557,8 @@
         "tab_TEQFxD": {
           "type": "tab",
           "settings": {
-            "title": "Charge Optimale",
-            "content": "<p>Pour garantir des performances optimales et une longue durée de vie de votre <strong>Furlyzo</strong>, nous vous recommandons de le charger en utilisant un dock de charge d’une puissance minimale de <strong>20W</strong> (charge rapide).</p><p>L’utilisation d’un chargeur rapide permet non seulement de réduire le temps de charge, mais également d’assurer une charge <strong>efficace et sécurisée</strong>. Cela est particulièrement important pour maintenir la performance et la durabilité de votre appareil.</p><p>Veuillez vérifier les spécifications de votre chargeur pour vous assurer qu’il répond à cette exigence. Une charge adéquate contribue à maximiser l’efficacité de votre <strong>Furlyzo</strong> et à prolonger sa durée de vie.</p><p>Merci pour votre compréhension et votre coopération.</p>",
+            "title": "Utilisation Optimale",
+            "content": "<ul><li>Utilisez deux lingettes par jour pour des résultats visibles dès 1 semaine</li><li>Passez délicatement la lingette sur les dents et les gencives</li><li>Convient aussi aux chiots dès 6 mois</li></ul>",
             "page": ""
           }
         }
@@ -664,6 +705,7 @@
     "before_after_image_GFghiF",
     "rich_text_VbnaRw",
     "video_MQeiRd",
+    "image_with_text_overlay_4DCVgh",
     "multi_column_DxJpcX",
     "featured_product_JCTVft",
     "tabs_jX3J7A",
