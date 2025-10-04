@@ -277,6 +277,7 @@
         "item_EQ3cy8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/doigt_avec_lingette.jpg",
             "column_size": "3",
             "title": "Cédric G. 29 ans",
             "heading_tag": "h4",
@@ -289,6 +290,7 @@
         "item_gRTqBJ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_9.jpg",
             "column_size": "3",
             "title": "Pierre E. 36 ans",
             "heading_tag": "h4",
@@ -301,6 +303,7 @@
         "item_NfaLEj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_11.jpg",
             "column_size": "3",
             "title": "Natasha S. 35 ans",
             "heading_tag": "h4",
@@ -313,6 +316,7 @@
         "item_t4AbQh": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/doigt_avec_lingette.jpg",
             "column_size": "3",
             "title": "Chloé D. 27 ans",
             "heading_tag": "h4",
