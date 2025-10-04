@@ -573,22 +573,22 @@
         "item_LnRQL7": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que l'ultrason va rendre les chiens plus agressifs ?",
-            "content": "<p>Non, l'ultrason n'est pas violent. Il est conçu pour être une <strong>solution douce et non agressive </strong>qui repousse les chiens sans leur causer de mal, tout en les i<strong>ncitant à s'éloigner.</strong></p>"
+            "title": "Les lingettes sont-elles sans danger pour mon chien ?",
+            "content": "<p>Oui, elles sont formulées à base d’ingrédients doux et testés pour une utilisation quotidienne sans risque.</p>"
           }
         },
         "item_DCXnBH": {
           "type": "item",
           "settings": {
-            "title": "\"L'appareil est-il sans danger pour moi ?",
-            "content": "<p>Oui, l'appareil utilise des ultrasons spécialement conçus pour être <strong>inaudibles et non nuisibles pour les humains et les chiens</strong>. Il est totalement sans danger pour vous.<br/></p>"
+            "title": "À quelle fréquence puis-je les utiliser ?",
+            "content": "<p>Elles peuvent être utilisées chaque jour ou quelques fois par semaine selon les besoins de votre chien.<br/><br/></p>"
           }
         },
         "item_FXnLnT": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que vous livrez à l'étranger ?",
-            "content": "<p>Oui, nous livrons également en<strong> Belgique et en Suisse</strong>. Les livraisons sont acheminées avec 2 à 4 jours supplémentaires.</p>"
+            "title": "Convient-elles à tous les chiens ?",
+            "content": "<p>Oui, nos lingettes conviennent à toutes les races et tailles, même les chiots à partir de 6 mois.</p>"
           }
         },
         "item_kK8eBd": {
