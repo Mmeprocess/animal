@@ -17,12 +17,12 @@
     "block_shadow_vertical_offset": 18,
     "button_style": "fill",
     "background": "#ffffff",
-    "text_color": "#ffffff",
+    "text_color": "#2a2a2a",
     "header_background": "#ffffff",
     "header_text_color": "#2c3e50",
     "footer_background": "#f7f1e1",
     "footer_text_color": "#2a2a2a",
-    "dialog_background": "#2c3e50",
+    "dialog_background": "#ffffff",
     "primary_button_background": "#1a1a1a",
     "primary_button_text_color": "#ffffff",
     "secondary_button_background": "#f0c417",
@@ -70,6 +70,11 @@
       },
       "2200952712151285029": {
         "type": "shopify://apps/microsoft-clarity/blocks/brandAgents_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea",
+        "disabled": false,
+        "settings": {}
+      },
+      "17198465164502963513": {
+        "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
         "disabled": false,
         "settings": {}
       }
