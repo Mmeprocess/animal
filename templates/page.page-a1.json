@@ -51,7 +51,7 @@
         "logo_9tTyhr": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/LOGO_BFMT.png",
+            "logo": "shopify://shop_images/lo_go_chien_fr.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -67,7 +67,7 @@
         "logo_jDgeYA": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo_le_monde.png",
+            "logo": "shopify://shop_images/Logo_france_tv.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -75,7 +75,7 @@
         "logo_EhCWpL": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/choisir-un-chien-logo-footer.svg",
+            "logo": "shopify://shop_images/logo_tf1_info.svg",
             "logo_width": 120,
             "link": ""
           }
