@@ -423,7 +423,7 @@
           "settings": {
             "image": "shopify://shop_images/logos_badge.png",
             "alignment": "center",
-            "max_width": 500
+            "max_width": 150
           }
         }
       },
