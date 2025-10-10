@@ -221,6 +221,7 @@
       "block_order": [
         "play_zCihCP"
       ],
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -230,6 +231,35 @@
         "video": "shopify://files/videos/version mobile demoIMAGEproduit (Vidéo mobile).mp4",
         "mobile_video": "shopify://files/videos/version mobile demoIMAGEproduit (Vidéo mobile).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_kEnUp7": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_H4GUMU": {
+          "type": "heading",
+          "settings": {
+            "text": "Une routine dentaire simple et efficace",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_H4GUMU"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "lg",
+        "image": "shopify://shop_images/Gif_demo.gif",
+        "mobile_image": "shopify://shop_images/Gif_demo.gif",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -423,7 +453,7 @@
           "settings": {
             "image": "shopify://shop_images/logos_badge.png",
             "alignment": "center",
-            "max_width": 200
+            "max_width": 500
           }
         }
       },
@@ -647,6 +677,7 @@
     "rich_text_X8FjfK",
     "before_after_image_GFghiF",
     "video_MQeiRd",
+    "image_with_text_overlay_kEnUp7",
     "multi_column_DxJpcX",
     "featured_product_JCTVft",
     "tabs_jX3J7A",
