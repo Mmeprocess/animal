@@ -12,13 +12,6 @@
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "heading_xLCG6F": {
-          "type": "heading",
-          "settings": {
-            "text": "Calmez votre Chien en un Clic !",
-            "heading_tag": "h1"
-          }
-        },
         "heading_nFJwCp": {
           "type": "heading",
           "disabled": true,
@@ -35,7 +28,6 @@
         }
       },
       "block_order": [
-        "heading_xLCG6F",
         "heading_nFJwCp",
         "1664424230c4756b0e-2"
       ],
@@ -44,13 +36,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/8_cb78230e-9805-462e-acc1-0df6bc5ea6f1.webp",
-        "mobile_image": "shopify://shop_images/8_cb78230e-9805-462e-acc1-0df6bc5ea6f1.webp",
+        "image": "shopify://shop_images/V2banniere-promo-_1.webp",
+        "mobile_image": "shopify://shop_images/V2banniere-promo-_1.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 25
+        "overlay_opacity": 0
       }
     },
     "logo_list_TDQwbg": {
@@ -59,7 +51,7 @@
         "logo_iUefiR": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/LOGO_BFMT.png",
+            "logo": "shopify://shop_images/Logo_tf1_v2.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -75,7 +67,7 @@
         "logo_mgQwtm": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo_le_monde.png",
+            "logo": "shopify://shop_images/Logo_france_tv.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -83,7 +75,7 @@
         "logo_7iWmkM": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/choisir-un-chien-logo-footer.svg",
+            "logo": "shopify://shop_images/lo_go_chien_fr.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -118,7 +110,7 @@
         "heading_WBAeGr": {
           "type": "heading",
           "settings": {
-            "text": "Furlyzo est avec vous au quotidien",
+            "text": "Les chiens, nos amis pour la vie",
             "heading_tag": "h2",
             "text_color": "#000000",
             "gradient": ""
@@ -146,467 +138,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benefice_furlyzo.png",
-        "mobile_image": "shopify://shop_images/benefice_furlyzo.png",
+        "image": "shopify://shop_images/FEMME_1.svg",
+        "mobile_image": "shopify://shop_images/FEMME_1.svg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "rich_text_VeWWKn": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_GGy8xP": {
-          "type": "heading",
-          "settings": {
-            "text": "Résultat Avant/Après",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_GGy8xP"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#1a1a1a"
-      }
-    },
-    "before_after_image_B8MdjA": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "before_image": "shopify://shop_images/BA_aboit.png",
-        "before_image_mobile": "shopify://shop_images/BA_aboit.png",
-        "after_image": "shopify://shop_images/BA_calme.png",
-        "after_image_mobile": "shopify://shop_images/BA_calme.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 76,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "before_text_color": "#2c3e50",
-        "after_text_color": "#f7f1e1",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "rich_text_MaqRFa": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_q3eyP3": {
-          "type": "heading",
-          "settings": {
-            "text": "Votre Chien se Calme en 1 clic",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_q3eyP3"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#000000"
-      }
-    },
-    "video_6Fj8Rh": {
-      "type": "video",
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/v2 video produit en action.mp4",
-        "mobile_video": "shopify://files/videos/v2 video produit en action.mp4",
-        "external_video_url": "",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "multi_column_ddYdjH": {
-      "type": "multi-column",
-      "blocks": {
-        "item_3zMMFD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_1ceb075e-bc3f-4bc4-95e2-17939cdb3b11.png",
-            "column_size": "3",
-            "title": "Judith B. 42 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je pensais que mon chien ne réagirait pas, mais dès la première utilisation, il s'est calmé ! Enfin le calme à la maison !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_BFp3nY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_4f0fe19f-b4c7-4583-a519-8e4fb7841895.png",
-            "column_size": "3",
-            "title": "Pierre E. 36 ans",
-            "heading_tag": "h4",
-            "content": "<p>J'ai un gros chien qui n'arrêtent pas d'aboyer. Quand j'utilise Furlyzo tous les 2 se calment immédiatement. Satisfait de mon achat</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_TjQENA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/6_7a08d1d3-c810-4197-9d25-12787dd6f696.png",
-            "column_size": "3",
-            "title": "Natasha S. 35 ans",
-            "heading_tag": "h4",
-            "content": "<p>Mon petit chien est peureux. Je l'éduque à se calmer et arrêter d'aboyer avec Furlyzo.  Il est devenu plus calme. J'aime aussi que Furlyzo soit inoffensif contrairement au collier électrique.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dazcfy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1_9f43a7c8-7789-412e-9f4e-5914d9bfa3e3.png",
-            "column_size": "3",
-            "title": "Chloé D. 23 ans",
-            "heading_tag": "h4",
-            "content": "<p>Mon chien est devenu très calme depuis que j'ai acheté Furlyzo. Les voisins n'ont plus de soucis à se faire.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_UwzkeK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_61ff5863-b1fc-405e-9864-8de76369bd3d.png",
-            "column_size": "3",
-            "title": "Christine J. 65 ans",
-            "heading_tag": "h4",
-            "content": "<p>Fini de crier pour que mon chien obéisse, il me suffit de cliquer sur Furlyzo et j'ai la paix!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_CtkyD3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/v2_temoignage.png",
-            "column_size": "3",
-            "title": "Cédric G. 29 ans",
-            "heading_tag": "h4",
-            "content": "<p>Quand je dois laisser mon chien à l'extérieur, il n'aboit plus grâce à ce répulsif</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_3zMMFD",
-        "item_BFp3nY",
-        "item_TjQENA",
-        "item_dazcfy",
-        "item_UwzkeK",
-        "item_CtkyD3"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Nos Clients en parlent le mieux",
-        "content": "",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#2a2a2a"
-      }
-    },
-    "featured-product": {
-      "type": "featured-product",
-      "blocks": {
-        "liquid_VdT8F4": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #FF6F20;\n  --social-proof-heart-color: #FF6F20;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\n    font-size: 14px;\n}\n\n.social-proof-slide__block-hearts {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-heart-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-heart {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-heart svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-heart-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-hearts\">\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n    <span class=\"social-proof-heart\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n        <path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    4.8/5 Apprécié par +15 000 Clients!\n  </span>\n</div>\n\n</body>\n</html>"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "liquid_ewDyf9": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #2C3E50;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #F7F1E1; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\"> Stock très limité ! 5 unités restantes </div>\n</div>"
-          }
-        },
-        "image_cMMgg8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/v2.banniere_promo_png.png",
-            "alignment": "center",
-            "max_width": 390
-          }
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "kaching_bundles_app_block_DPmJLB": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
-        "text_fAcBAn": {
-          "type": "text",
-          "settings": {
-            "text": "<h6>✅ <strong>Indolore, 100% sûr et facile à utiliser</strong></h6>"
-          }
-        },
-        "essential_countdown_timer_app_block_6CjRWR": {
-          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cmffsctz0000w78x9vl7ncflz"
-          }
-        },
-        "text_8kt8pU": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>  Disponible uniquement avec le Pack Duo ou Trio</h4>"
-          }
-        },
-        "buy_buttons_7TmUJX": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": false,
-            "atc_button_background": "#6ba292",
-            "atc_button_text_color": "#ffffff",
-            "payment_button_background": "#ffb74a",
-            "payment_button_text_color": "#2c3e50"
-          }
-        },
-        "conversion_bear_trust_badges_widget_gc9fRN": {
-          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
-          "settings": {}
-        },
-        "variant-picker": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "color",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "liquid_riMTpV": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<div class=\"delivery-info\">\n  <span class=\"delivery-icon\">🚚</span>\n  <span class=\"delivery-text\">\n    Expédition estimée entre le \n    <strong>{{ 'now' | date: \"%s\" | plus: 432000 | date: \"%d.%m\" }}</strong> \n    et \n    <strong>{{ 'now' | date: \"%s\" | plus: 691200 | date: \"%d.%m\" }}</strong>\n    <em>(hors week-end et jours fériés)</em>\n  </span>\n</div>\n\n<style>\n.delivery-info {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  background: #F7F1E1;\n  border-radius: 8px;\n  padding: 12px 18px;\n  font-size: 15px;\n  font-weight: 400;\n  color: #333;\n  text-align: center;\n}\n.delivery-icon {\n  font-size: 18px;\n  margin-right: 8px;\n}\n.delivery-text strong {\n  font-weight: 600;\n}\n.delivery-text em {\n  font-style: normal;\n  font-size: 13px;\n  color: #666;\n  margin-left: 4px;\n}\n</style>"
-          }
-        },
-        "image_493AjG": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Angle_proprietaire_cadeau_9a383dc3-048a-428f-8976-0a7036a91f0c.png",
-            "alignment": "center",
-            "max_width": 400
-          }
-        },
-        "pickup_availability_JYjNRG": {
-          "type": "pickup_availability",
-          "settings": {}
-        },
-        "image_E4GJpm": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/logos_badge.png",
-            "alignment": "center",
-            "max_width": 300
-          }
-        }
-      },
-      "block_order": [
-        "liquid_VdT8F4",
-        "title",
-        "badges",
-        "price",
-        "liquid_ewDyf9",
-        "image_cMMgg8",
-        "separator",
-        "kaching_bundles_app_block_DPmJLB",
-        "text_fAcBAn",
-        "essential_countdown_timer_app_block_6CjRWR",
-        "text_8kt8pU",
-        "buy_buttons_7TmUJX",
-        "conversion_bear_trust_badges_widget_gc9fRN",
-        "variant-picker",
-        "liquid_riMTpV",
-        "image_493AjG",
-        "pickup_availability_JYjNRG",
-        "image_E4GJpm"
-      ],
-      "settings": {
-        "full_width": false,
-        "product": "mon-produit",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#000000",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
-    "tabs_TUmKrp": {
-      "type": "tabs",
-      "blocks": {
-        "tab_MGtemF": {
-          "type": "tab",
-          "settings": {
-            "title": "Caractéristiques",
-            "content": "<ul><li>Portée effective : jusqu’à 3 mètres</li><li>Technologie 2-en-1 : ultrason + éclairage LED intégré</li><li>Batterie rechargeable USB-C — autonomie longue durée</li><li>Temps de charge : ~1 heure</li><li>Dimensions compactes — tient dans la main</li><li>Poids léger : environ 90 g</li><li>Matériau : plastique ABS résistant aux chocs</li><li>Inoffensif pour l’animal et l’utilisateur</li><li>Indicateur LED pour batterie et activation</li></ul>",
-            "page": ""
-          }
-        },
-        "tab_mwAQmh": {
-          "type": "tab",
-          "settings": {
-            "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p>Essayez le Furlyzo sans risque pendant <strong>30 jours.</strong><br/><br/>Si vous n’êtes pas complètement satisfait de votre Furlyzo, vous avez la possibilité de le retourner et vous <strong>recevrez un remboursement intégral.</strong></p>",
-            "page": ""
-          }
-        },
-        "tab_pBTRDF": {
-          "type": "tab",
-          "settings": {
-            "title": "Livraison gratuite à domicile",
-            "content": "<p>La livraison sera effectuée à l'adresse que vous nous indiquerez. </p><p>En fonction du volume de commandes à traiter, le délai de livraison est estimé entre 5 et 9 jours ouvrés.</p>",
-            "page": ""
-          }
-        },
-        "tab_pMFCp6": {
-          "type": "tab",
-          "settings": {
-            "title": "Service Client 6j/7",
-            "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions six jours sur sept.</p><p>Vous pouvez nous contacter par email ou via le formulaire contact. </p>",
-            "page": ""
-          }
-        },
-        "tab_LQ6UYx": {
-          "type": "tab",
-          "settings": {
-            "title": "Charge Optimale",
-            "content": "<p>Pour garantir des performances optimales et une longue durée de vie de votre <strong>Furlyzo</strong>, nous vous recommandons de le charger en utilisant un dock de charge d’une puissance minimale de <strong>20W</strong> (charge rapide).</p><p>L’utilisation d’un chargeur rapide permet non seulement de réduire le temps de charge, mais également d’assurer une charge efficace et sécurisée. Cela est particulièrement important pour maintenir la performance et la durabilité de votre appareil.</p><p>Veuillez vérifier les spécifications de votre chargeur pour vous assurer qu’il répond à cette exigence. Une charge adéquate contribue à maximiser l’efficacité de votre <strong>Furlyzo</strong> et à prolonger sa durée de vie.</p><p>Merci pour votre compréhension et votre coopération.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_MGtemF",
-        "tab_mwAQmh",
-        "tab_pBTRDF",
-        "tab_pMFCp6",
-        "tab_LQ6UYx"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#000000",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "17573222934ec53191": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_cxDBqW": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": false
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_cxDBqW"
-      ],
-      "settings": {
-        "full_width": false,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#2c3e50"
       }
     },
     "17554414233368e606": {
@@ -620,104 +158,8 @@
         "text_color": ""
       }
     },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Furlyzo fonctionnera-t-il sur mon chien têtu ?",
-            "content": "<p>Oui ! Même les chiens les plus têtus réagissent au son ultrasonique. Certains peuvent avoir besoin de quelques séances pour s’y habituer, mais avec une <strong>utilisation régulière</strong>, ils apprennent à associer leurs aboiements au son et à corriger leur comportement.</p>"
-          }
-        },
-        "item_eLzyB4": {
-          "type": "item",
-          "settings": {
-            "title": "L'appareil est-il sûr pour mon chien ?",
-            "content": "<p> Oui, l'appareil utilise des <strong>ultrasons doux et non invasifs </strong>qui ne causent aucune douleur ou stress à votre chien. </p><p>Il est conçu pour être une <strong>solution sûre et efficace</strong> pour repousser les chiens agressifs ou stopper les aboiements sans nuire à leur bien-être.</p>"
-          }
-        },
-        "item_9jQhYi": {
-          "type": "item",
-          "settings": {
-            "title": "Que faire si Furlyzo ne réponds pas à mes attentes ?",
-            "content": "<p>Nous sommes sûrs que vous allez adorer Furlyzo !</p><p>Toutefois, si vous n’êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons <strong>un remboursement complet !</strong></p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "title": "Furlyzo™ fonctionne-t-il pour d’autres comportements que les aboiements ?",
-            "content": "<p>Absolument ! De nombreux clients l’ont utilisé avec succès pour stopper les sauts, le mâchonnement excessif, le creusage et même l’agressivité en laisse.<br/><br/>Le son ultrasonique capte leur attention, ce qui vous permet de rediriger leur comportement.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "title": "Le son ultrasonique va-t-il blesser mon chien ?",
-            "content": "<p>Non, Furlyzo est <strong>100 % sûr et sans cruauté</strong>. Contrairement aux colliers électriques, il <strong>ne cause aucune douleur</strong> — il émet simplement un son qui attire l’attention de votre chien et encourage son dressage.</p>"
-          }
-        },
-        "item_8WURPj": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "title": "Quelle est la durée de vie de la batterie ?",
-            "content": "<p><br/>Furlyzo est équipé d’une <strong>recharge rapide USB</strong> et peut durer <strong>jusqu’à 60 jours avec une seule charge</strong>, selon l’utilisation.<br/><br/>Dites adieu au remplacement constant des piles !<br/><br/></p>"
-          }
-        },
-        "item_xerWht": {
-          "type": "item",
-          "settings": {
-            "title": "Est ce que vous livrez à l'étranger ?",
-            "content": "<p>Oui, nous livrons également en<strong> Belgique et en Suisse</strong>. Les livraisons sont acheminées avec 2 à 4 jours supplémentaires.</p>"
-          }
-        },
-        "item_fnMJix": {
-          "type": "item",
-          "settings": {
-            "title": "Quel est le délai de livraison ?",
-            "content": "<p>Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 9 jours ouvrés.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "166442457738b23caf-0",
-        "item_eLzyB4",
-        "item_9jQhYi",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2",
-        "item_8WURPj",
-        "item_xerWht",
-        "item_fnMJix"
-      ],
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#2a2a2a",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "#2c3e50",
-        "button_text_color": "",
-        "accordion_background": "#f7f1e1",
-        "accordion_text_color": ""
-      }
-    },
     "contact_3L7tBg": {
       "type": "contact",
-      "disabled": true,
       "name": "Contact form",
       "settings": {
         "full_width": true,
@@ -743,16 +185,7 @@
     "logo_list_TDQwbg",
     "rich_text_iN8PCd",
     "image_with_text_overlay_RKjBWE",
-    "rich_text_VeWWKn",
-    "before_after_image_B8MdjA",
-    "rich_text_MaqRFa",
-    "video_6Fj8Rh",
-    "multi_column_ddYdjH",
-    "featured-product",
-    "tabs_TUmKrp",
-    "17573222934ec53191",
     "17554414233368e606",
-    "faq",
     "contact_3L7tBg"
   ]
 }
