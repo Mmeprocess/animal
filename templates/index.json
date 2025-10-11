@@ -9,6 +9,32 @@
  */
 {
   "sections": {
+    "rich_text_Unkket": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_P4mk9x": {
+          "type": "heading",
+          "settings": {
+            "text": "Prolongation jusqu'à Dimanche 00h",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_P4mk9x"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#f7f1e1",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -181,6 +207,7 @@
     }
   },
   "order": [
+    "rich_text_Unkket",
     "image-with-text-overlay",
     "logo_list_TDQwbg",
     "rich_text_iN8PCd",
