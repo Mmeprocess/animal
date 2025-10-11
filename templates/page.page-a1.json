@@ -594,18 +594,6 @@
         "text_color": "#2c3e50"
       }
     },
-    "1755515108d27f35e2": {
-      "type": "apps",
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "#f7f1e1",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "faq_CcMU7X": {
       "type": "faq",
       "blocks": {
@@ -690,7 +678,6 @@
     "featured_product_JCTVft",
     "tabs_jX3J7A",
     "1757324950c04db472",
-    "1755515108d27f35e2",
     "faq_CcMU7X"
   ]
 }
