@@ -255,7 +255,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "lg",
+        "image_size": "md",
         "image": "shopify://shop_images/Gif_demo.gif",
         "mobile_image": "shopify://shop_images/Gif_demo.gif",
         "mobile_text_position": "place-self-center text-center",
