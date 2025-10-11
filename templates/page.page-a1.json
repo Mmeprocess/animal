@@ -417,6 +417,12 @@
             "show_empty": false
           }
         },
+        "text_3G6Di4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>PROLONGATION JUSQU'À DIMANCHE 12/10</strong></p>"
+          }
+        },
         "separator_3XzKij": {
           "type": "separator",
           "settings": {}
@@ -465,6 +471,7 @@
         "description_iLGjeB",
         "badges_9GXt3q",
         "rating_aUcqL6",
+        "text_3G6Di4",
         "separator_3XzKij",
         "kaching_bundles_app_block_azJDH7",
         "essential_countdown_timer_app_block_6xw4Kn",
