@@ -485,22 +485,38 @@
         "item_RG6MPG": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Mon chien déteste qu'on lui touche la bouche, va-t-il accepter les lingettes ?",
+            "content": "<p>C'est justement l'atout principal ! </p><p>Nos lingettes <strong>s'enfilent sur votre doigt</strong>, offrant un contrôle précis et une douceur maximale. </p><p>Beaucoup de propriétaires nous disent que leur chien, qui rejetait tout brossage,<strong> tolère finalement cette méthode</strong>. </p><p>Notre conseil : allez-y progressivement, avec des récompenses au début.</p>"
           }
         },
         "item_HNwFrA": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Est-ce que le produit est sans danger pour mon chien ?",
+            "content": "<p>Absolument. </p><p>Notre formule est <strong>sans alcool, sans parabènes et sans parfums agressifs. </strong>Idéale même pour les chiens âgés ou aux gencives sensibles.<br/></p>"
+          }
+        },
+        "item_LAVa8W": {
+          "type": "item",
+          "settings": {
+            "title": "Les lingettes vont-elles vraiment améliorer l'haleine de mon chien ?",
+            "content": "<p><strong>Oui, mais avec de la régularité</strong>.</p><p> En éliminant les résidus alimentaires et la plaque, vous <strong>constaterez progressivement</strong> une haleine plus fraîche. </p><p>La clé ? Une <strong>utilisation quotidienne ou après chaque repas.</strong><br/></p>"
+          }
+        },
+        "item_az7zry": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure un paquet avec une utilisation quotidienne ?",
+            "content": "<p>Chaque paquet contient<strong> 50 lingettes</strong>, soit environ<strong> 25 jours d'utilisation</strong> avec<strong> 2 lingettes par jour</strong> (matin et soir). </p><p>Optez pour nos formats économiques pour un meilleur rapport qualité-prix et prévenir les <strong>problèmes dentaires coûteux</strong> à long terme.</p>"
           }
         }
       },
       "block_order": [
         "item_mNhaiW",
         "item_RG6MPG",
-        "item_HNwFrA"
+        "item_HNwFrA",
+        "item_LAVa8W",
+        "item_az7zry"
       ],
       "disabled": true,
       "name": "FAQ",
