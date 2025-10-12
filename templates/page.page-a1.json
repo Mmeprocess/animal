@@ -135,7 +135,7 @@
         "background_gradient": "",
         "heading_text_color": "",
         "heading_gradient": "",
-        "text_color": "#2a2a2a",
+        "text_color": "#2e8b57",
         "button_background": "",
         "button_text_color": ""
       }
@@ -165,7 +165,7 @@
           "settings": {
             "text": "Résultat Avant/Après",
             "heading_tag": "h2",
-            "text_color": "",
+            "text_color": "#2e8b57",
             "gradient": ""
           }
         }
@@ -366,7 +366,7 @@
         "content": "",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#2c3e50"
+        "text_color": "#2e8b57"
       }
     },
     "featured_product_JCTVft": {
@@ -566,7 +566,7 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#2a2a2a",
-        "heading_color": "",
+        "heading_color": "#2e8b57",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
@@ -589,7 +589,7 @@
           "type": "tab",
           "settings": {
             "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p><br/>Testez nos lingettes dentaires pendant 30 jours !<br/><br/>Si vous n’êtes pas satisfait, vous êtes remboursé — sans conditions.<br/><br/></p>",
+            "content": "<p><br/>Essayez nos lingettes dentaires <strong>sans risque pendant 30 jours. </strong></p><p>Produit non ouvert ? Remboursement intégral. </p><p>Défaut de qualité ? Nous le remplaçons ou vous remboursons immédiatement.<br/><br/></p>",
             "page": ""
           }
         },
