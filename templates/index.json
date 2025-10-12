@@ -9,66 +9,32 @@
  */
 {
   "sections": {
-    "rich_text_Unkket": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_P4mk9x": {
-          "type": "heading",
-          "settings": {
-            "text": "Prolongation jusqu'à Dimanche 00h",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_P4mk9x"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#f7f1e1",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
         "heading_nFJwCp": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "text": "Maîtrisez tous les chiens en un clic",
+            "text": "Des dents saines pour un chien en pleine santé",
             "heading_tag": "h1"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
           }
         }
       },
       "block_order": [
-        "heading_nFJwCp",
-        "1664424230c4756b0e-2"
+        "heading_nFJwCp"
       ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/V2banniere-promo-_1.webp",
-        "mobile_image": "shopify://shop_images/V2banniere-promo-_1.webp",
+        "image": "shopify://shop_images/test-accueil.webp",
+        "mobile_image": "shopify://shop_images/test-accueil.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
+        "text_color": "#f7f1e1",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 15
       }
     },
     "logo_list_TDQwbg": {
@@ -130,6 +96,42 @@
         "logo_item_border": "#e8e8e8"
       }
     },
+    "rich_text_6gAFjz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_L6WGAP": {
+          "type": "heading",
+          "settings": {
+            "text": "FreschCrocs : la Solution Complète pour ses Dents",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "image_T47xTD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Benefice_produit.svg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        }
+      },
+      "block_order": [
+        "heading_L6WGAP",
+        "image_T47xTD"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#f7f1e1",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_iN8PCd": {
       "type": "rich-text",
       "blocks": {
@@ -156,8 +158,180 @@
         "text_color": "#2c3e50"
       }
     },
+    "featured_product_BxbNMw": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_6n3dWK": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "title_XeCt4h": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_Hk3P7X": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_KdNeBV": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_bpfAtg": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "kaching_bundles_app_block_dggKj3": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "separator_RT7yCN": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "description_zb6AbE": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_MRdwQ7": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_nmkGyj": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons_kMXHWj": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_LXhBTw": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_6n3dWK",
+        "title_XeCt4h",
+        "badges_Hk3P7X",
+        "price_KdNeBV",
+        "rating_bpfAtg",
+        "kaching_bundles_app_block_dggKj3",
+        "separator_RT7yCN",
+        "description_zb6AbE",
+        "variant_picker_MRdwQ7",
+        "quantity_selector_nmkGyj",
+        "buy_buttons_kMXHWj",
+        "pickup_availability_LXhBTw"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "freshcrocs",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "multiple_images_with_text_kdUy84": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_NiiVXr": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_DaCHBC": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_Fdtjgy": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Image with text",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_NiiVXr",
+        "item_DaCHBC",
+        "item_Fdtjgy"
+      ],
+      "disabled": true,
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "image_with_text_overlay_RKjBWE": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -207,10 +381,12 @@
     }
   },
   "order": [
-    "rich_text_Unkket",
     "image-with-text-overlay",
     "logo_list_TDQwbg",
+    "rich_text_6gAFjz",
     "rich_text_iN8PCd",
+    "featured_product_BxbNMw",
+    "multiple_images_with_text_kdUy84",
     "image_with_text_overlay_RKjBWE",
     "17554414233368e606",
     "contact_3L7tBg"
