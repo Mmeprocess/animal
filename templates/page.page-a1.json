@@ -130,7 +130,7 @@
         "text_alignment": "center",
         "impact_text_style": "fill",
         "text_divider": "none",
-        "impact_text_size_ratio": 0.6,
+        "impact_text_size_ratio": 0.5,
         "background": "#ffffff",
         "background_gradient": "",
         "heading_text_color": "",
@@ -532,6 +532,13 @@
             "content": "<p><br/>Les lingettes sont <strong>votre meilleur allié au quotidien</strong> pour maintenir une hygiène dentaire régulière. Elles ciblent efficacement la plaque superficielle et les débris entre les nettoyages professionnels. Idéales pour les chiens qui refusent la brosse ou en complément de votre routine d'hygiène.<br/><br/></p>"
           }
         },
+        "item_wqXPLb": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
         "item_LnRQL7": {
           "type": "item",
           "settings": {
@@ -571,6 +578,7 @@
       },
       "block_order": [
         "item_DCXnBH",
+        "item_wqXPLb",
         "item_LnRQL7",
         "item_FXnLnT",
         "item_BDMqbD",
@@ -720,6 +728,27 @@
         "background_gradient": "",
         "text_color": "#2c3e50"
       }
+    },
+    "contact_fJFixx": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Une question ?",
+        "content": "<p>Notre équipe se fat une joie de vous aider. Rédigez votre message ci-dessous. Nos bureaux sont ouverts du lundi au Samedi. Temps de réponse entre 24h et 48h</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#333333",
+        "heading_color": "#2e8b57",
+        "heading_gradient": "",
+        "contact_background": "#f5f5dc",
+        "contact_text_color": "",
+        "button_background": "#2e8b57",
+        "button_text_color": "#f5f5dc"
+      }
     }
   },
   "order": [
@@ -738,6 +767,7 @@
     "faq_CcMU7X",
     "rich_text_PiLDcd",
     "tabs_jX3J7A",
-    "1757324950c04db472"
+    "1757324950c04db472",
+    "contact_fJFixx"
   ]
 }
