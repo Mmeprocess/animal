@@ -500,6 +500,75 @@
         "input_text_color": ""
       }
     },
+    "faq_CcMU7X": {
+      "type": "faq",
+      "blocks": {
+        "item_LnRQL7": {
+          "type": "item",
+          "settings": {
+            "title": "Les lingettes sont-elles sans danger pour mon chien ?",
+            "content": "<p>Oui, elles sont formulées à base d’ingrédients doux et testés pour une utilisation quotidienne sans risque.</p>"
+          }
+        },
+        "item_DCXnBH": {
+          "type": "item",
+          "settings": {
+            "title": "À quelle fréquence puis-je les utiliser ?",
+            "content": "<p>Elles peuvent être utilisées chaque jour ou quelques fois par semaine selon les besoins de votre chien.<br/><br/></p>"
+          }
+        },
+        "item_FXnLnT": {
+          "type": "item",
+          "settings": {
+            "title": "Convient-elles à tous les chiens ?",
+            "content": "<p>Oui, nos lingettes conviennent à toutes les races et tailles, même les chiots à partir de 6 mois.</p>"
+          }
+        },
+        "item_kK8eBd": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p>Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 9 jours ouvrés.</p>"
+          }
+        },
+        "item_DtKQ7F": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si Furlyzo ne réponds pas à mes attentes ?",
+            "content": "<p>Nous sommes sûrs que vous allez adorer Furlyzo !</p><p>Toutefois, si vous n’êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons <strong>un remboursement complet !</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_LnRQL7",
+        "item_DCXnBH",
+        "item_FXnLnT",
+        "item_kK8eBd",
+        "item_DtKQ7F"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#2a2a2a",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "tabs_jX3J7A": {
       "type": "tabs",
       "blocks": {
@@ -593,75 +662,6 @@
         "background_gradient": "",
         "text_color": "#2c3e50"
       }
-    },
-    "faq_CcMU7X": {
-      "type": "faq",
-      "blocks": {
-        "item_LnRQL7": {
-          "type": "item",
-          "settings": {
-            "title": "Les lingettes sont-elles sans danger pour mon chien ?",
-            "content": "<p>Oui, elles sont formulées à base d’ingrédients doux et testés pour une utilisation quotidienne sans risque.</p>"
-          }
-        },
-        "item_DCXnBH": {
-          "type": "item",
-          "settings": {
-            "title": "À quelle fréquence puis-je les utiliser ?",
-            "content": "<p>Elles peuvent être utilisées chaque jour ou quelques fois par semaine selon les besoins de votre chien.<br/><br/></p>"
-          }
-        },
-        "item_FXnLnT": {
-          "type": "item",
-          "settings": {
-            "title": "Convient-elles à tous les chiens ?",
-            "content": "<p>Oui, nos lingettes conviennent à toutes les races et tailles, même les chiots à partir de 6 mois.</p>"
-          }
-        },
-        "item_kK8eBd": {
-          "type": "item",
-          "settings": {
-            "title": "Quel est le délai de livraison ?",
-            "content": "<p>Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 9 jours ouvrés.</p>"
-          }
-        },
-        "item_DtKQ7F": {
-          "type": "item",
-          "settings": {
-            "title": "Que faire si Furlyzo ne réponds pas à mes attentes ?",
-            "content": "<p>Nous sommes sûrs que vous allez adorer Furlyzo !</p><p>Toutefois, si vous n’êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons <strong>un remboursement complet !</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_LnRQL7",
-        "item_DCXnBH",
-        "item_FXnLnT",
-        "item_kK8eBd",
-        "item_DtKQ7F"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#2a2a2a",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
     }
   },
   "order": [
@@ -676,8 +676,8 @@
     "image_with_text_overlay_kEnUp7",
     "multi_column_DxJpcX",
     "featured_product_JCTVft",
+    "faq_CcMU7X",
     "tabs_jX3J7A",
-    "1757324950c04db472",
-    "faq_CcMU7X"
+    "1757324950c04db472"
   ]
 }
