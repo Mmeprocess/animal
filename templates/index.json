@@ -563,8 +563,16 @@
         "tab_HVCngp": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Service Client 6j/7",
+            "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions six jours sur sept. Vous pouvez <strong>nous contacter par email</strong> ou via le<strong> formulaire contact.</strong><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_B78VwA": {
+          "type": "tab",
+          "settings": {
+            "title": "Utilisation facile",
+            "content": "<p>Utilisez <strong>deux lingettes par jour</strong> pour des résultats visibles dès la première semaine.</p><p>Passez<strong> délicatement la lingette</strong> sur les dents et les gencives.</p><p>Convient aussi aux chiots dès 6 mois<br/></p>",
             "page": ""
           }
         }
@@ -572,21 +580,21 @@
       "block_order": [
         "tab_pLjimn",
         "tab_mpeMFL",
-        "tab_HVCngp"
+        "tab_HVCngp",
+        "tab_B78VwA"
       ],
-      "disabled": true,
       "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "Nos Garanties",
         "text_alignment": "center",
         "first_tab_open": false,
-        "background": "",
+        "background": "#f5f5dc",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
+        "text_color": "#333333",
+        "heading_color": "#2e8b57",
         "heading_gradient": ""
       }
     },
