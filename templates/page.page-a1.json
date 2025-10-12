@@ -505,6 +505,23 @@
         "input_text_color": ""
       }
     },
+    "image_with_text_overlay_wRhNR9": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/v2-veto.webp",
+        "mobile_image": "shopify://shop_images/v2-veto.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_CcMU7X": {
       "type": "faq",
       "blocks": {
@@ -681,6 +698,7 @@
     "image_with_text_overlay_kEnUp7",
     "multi_column_DxJpcX",
     "featured_product_JCTVft",
+    "image_with_text_overlay_wRhNR9",
     "faq_CcMU7X",
     "tabs_jX3J7A",
     "1757324950c04db472"
