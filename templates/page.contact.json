@@ -20,20 +20,20 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "FURLYZO",
+        "subheading": "",
         "title": "Une question ?",
         "content": "<p>Veuillez remplir le formulaire ci-dessous. Nous y répondrons entre 24h et 48h.</p>",
         "text_position": "start",
         "contact_form_size": "large",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#2c3e50",
+        "text_color": "#2e8b57",
         "heading_color": "",
         "heading_gradient": "",
-        "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "#2c3e50",
-        "button_text_color": ""
+        "contact_background": "#f5f5dc",
+        "contact_text_color": "#333333",
+        "button_background": "#2e8b57",
+        "button_text_color": "#f5f5dc"
       }
     }
   },
