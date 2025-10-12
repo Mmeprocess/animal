@@ -430,7 +430,7 @@
         "text_wRNdp4": {
           "type": "text",
           "settings": {
-            "text": "<h6><br/><em>\"</em>Prévenez le tartre maintenant, évitez la visite véto plus tard<em>\"</em><br/><br/></h6>"
+            "text": "<h6><br/><em>\"Des dents en pleine santé pour un chien en bonne santé\"</em><br/><br/></h6>"
           }
         },
         "separator_KD6xGD": {
@@ -528,8 +528,8 @@
         "item_LnRQL7": {
           "type": "item",
           "settings": {
-            "title": "Les lingettes sont-elles sans danger pour mon chien ?",
-            "content": "<p>Oui, elles sont formulées à base d’ingrédients doux et testés pour une utilisation quotidienne sans risque.</p>"
+            "title": "Mon chien déteste qu'on lui touche la bouche, va-t-il accepter les lingettes ?",
+            "content": "<p>C'est justement l'atout principal ! Nos lingettes s'enfilent sur votre doigt, offrant un <strong>contrôle précis et une douceur maximale</strong>. </p><p>Beaucoup de propriétaires nous disent que leur chien, qui rejetait tout brossage, tolère finalement cette méthode. </p><p>Notre conseil : allez-y progressivement, avec des récompenses au début.</p>"
           }
         },
         "item_DCXnBH": {
