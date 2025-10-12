@@ -188,6 +188,117 @@
         "overlay_opacity": 30
       }
     },
+    "rich_text_B3qa76": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YQHNe9": {
+          "type": "heading",
+          "settings": {
+            "text": "Nos clients en parlent le mieux",
+            "heading_tag": "h2",
+            "text_color": "#2e8b57",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_YQHNe9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "images_with_text_scrolling_weTcLA": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_UXkW3i": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_13.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Cédric G. 39 ans",
+            "content": "<p>Mon chien déteste la brosse à dents, mais il se laisse faire avec les lingettes, c'est devenu un moment facile.</p>"
+          }
+        },
+        "item_L4kNL3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_11.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Pierre E. 52 ans",
+            "content": "<p>Depuis que je les utilise, mon chien n'a plus de mauvaises haleines </p>"
+          }
+        },
+        "item_bEAYKU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Skarmavbild_2025-06-20_kl.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Natasha S. 50 ans",
+            "content": "<p>J'avais essayé les jouets à mâcher, mais les lingettes donnent un résultat immédiat et visible.</p>"
+          }
+        },
+        "item_3HhnYU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_9.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Chloé D. 27 ans",
+            "content": "<p>Je les utilise régulièrement; Cela revient bien moins cher que le détr</p>"
+          }
+        },
+        "item_Dceacw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/doigt_avec_lingette.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Paul B. 32 ans",
+            "content": "<p>Elles sont toutes douces, je suis rassuré de ne rien mettre de nocif dans la bouche de mon chien César. </p>"
+          }
+        },
+        "item_FRRCyt": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_UXkW3i",
+        "item_L4kNL3",
+        "item_bEAYKU",
+        "item_3HhnYU",
+        "item_Dceacw",
+        "item_FRRCyt"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#2e8b57",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "featured_product_BxbNMw": {
       "type": "featured-product",
       "blocks": {
@@ -198,7 +309,6 @@
         },
         "title_XeCt4h": {
           "type": "title",
-          "disabled": true,
           "settings": {
             "heading_tag": "h2"
           }
@@ -234,10 +344,21 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "text_DBABUH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>\"Des dents en pleine santé pour un chien en bonne santé\"</strong></em></p>"
+          }
+        },
         "separator_RT7yCN": {
           "type": "separator",
-          "disabled": true,
           "settings": {}
+        },
+        "essential_countdown_timer_app_block_jz4wVC": {
+          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
         },
         "description_zb6AbE": {
           "type": "description",
@@ -274,6 +395,10 @@
             "payment_button_text_color": ""
           }
         },
+        "conversion_bear_trust_badges_widget_dMUqMG": {
+          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {}
+        },
         "pickup_availability_LXhBTw": {
           "type": "pickup_availability",
           "settings": {}
@@ -287,11 +412,14 @@
         "rating_bpfAtg",
         "image_rx7Lez",
         "kaching_bundles_app_block_dggKj3",
+        "text_DBABUH",
         "separator_RT7yCN",
+        "essential_countdown_timer_app_block_jz4wVC",
         "description_zb6AbE",
         "variant_picker_MRdwQ7",
         "quantity_selector_nmkGyj",
         "buy_buttons_kMXHWj",
+        "conversion_bear_trust_badges_widget_dMUqMG",
         "pickup_availability_LXhBTw"
       ],
       "name": "Featured product",
@@ -311,6 +439,23 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "image_with_text_overlay_LX9NiB": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/v2-veto.webp",
+        "mobile_image": "shopify://shop_images/v2-veto.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "faq_FeDVBf": {
@@ -348,21 +493,21 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "support_hours": "",
         "answer_time": "Average answer time: 24h",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
+        "text_color": "#333333",
+        "heading_color": "#2e8b57",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "",
+        "accordion_background": "#f5f5dc",
         "accordion_text_color": ""
       }
     },
@@ -478,7 +623,10 @@
     "rich_text_6gAFjz",
     "before_after_image_RgjbgE",
     "image_with_text_overlay_CA9e4Q",
+    "rich_text_B3qa76",
+    "images_with_text_scrolling_weTcLA",
     "featured_product_BxbNMw",
+    "image_with_text_overlay_LX9NiB",
     "faq_FeDVBf",
     "multiple_images_with_text_kdUy84",
     "image_with_text_overlay_RKjBWE",
