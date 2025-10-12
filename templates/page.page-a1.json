@@ -562,6 +562,7 @@
         },
         "item_kK8eBd": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Quel est le délai de livraison ?",
             "content": "<p>Votre commande sera expédiée sous <strong>5 à 9 jours ouvrés</strong>. </p><p>En raison du succès de notre offre Semaine des Animaux, certaines commandes peuvent prendre 7 à 12 jours ouvrés. </p><p>Un petit délai pour un grand pas vers <strong>la santé dentaire de votre compagnon</strong> !</p>"
@@ -599,11 +600,38 @@
         "accordion_text_color": ""
       }
     },
+    "rich_text_PiLDcd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bexUhX": {
+          "type": "heading",
+          "settings": {
+            "text": "Nos Garanties",
+            "heading_tag": "h1",
+            "text_color": "#2e8b57",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_bexUhX"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_jX3J7A": {
       "type": "tabs",
       "blocks": {
         "tab_jxjNtb": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "Caractéristiques",
             "content": "<p><br/>Nos lingettes sont imbibées d’une solution nettoyante douce à base d’<strong>eau purifiée</strong>, d’<strong>extraits naturels de romarin et d’hamamélis</strong>, connus pour leurs propriétés <strong>purifiantes et apaisantes</strong>.<br/><br/>Elles contiennent également un <strong>agent antibactérien sûr</strong> pour éliminer les mauvaises odeurs et prévenir la plaque dentaire.<br/><br/>Sans alcool agressif, sans rinçage, <strong>adapté à tous les chiens, même les plus sensibles</strong>.<br/><br/></p>",
@@ -622,7 +650,7 @@
           "type": "tab",
           "settings": {
             "title": "Livraison Gratuite",
-            "content": "<p>La livraison sera effectuée à l<strong>'adresse que vous nous indiquerez</strong>. Du à la forte demande pour la <strong>semaine mondiale des animaux</strong>, le délai de livraison est estimé entre 7 et 12 jours ouvrés.<br/></p>",
+            "content": "<p>La livraison gratuite est uniquement pour la France. </p><p>Elle sera effectuée à l<strong>'adresse que vous nous indiquerez</strong>. </p><p>Du à la forte demande pour la <strong>semaine mondiale des animaux</strong>, le délai de livraison est estimé entre 7 et 12 jours ouvrés.<br/></p>",
             "page": ""
           }
         },
@@ -637,8 +665,8 @@
         "tab_TEQFxD": {
           "type": "tab",
           "settings": {
-            "title": "Utilisation",
-            "content": "<ul><li>Utilisez deux lingettes par jour pour des résultats visibles dès 1 semaine</li><li>Passez délicatement la lingette sur les dents et les gencives</li><li>Convient aussi aux chiots dès 6 mois</li></ul>",
+            "title": "Utilisation facile",
+            "content": "<ul><li>Utilisez deux lingettes par jour pour des résultats visibles dès la première semaine</li><li>Passez délicatement la lingette sur les dents et les gencives</li><li>Convient aussi aux chiots dès 6 mois</li></ul>",
             "page": ""
           }
         }
@@ -708,6 +736,7 @@
     "featured_product_JCTVft",
     "image_with_text_overlay_wRhNR9",
     "faq_CcMU7X",
+    "rich_text_PiLDcd",
     "tabs_jX3J7A",
     "1757324950c04db472"
   ]
