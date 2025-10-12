@@ -488,6 +488,7 @@
         "item_RG6MPG",
         "item_HNwFrA"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -509,6 +510,83 @@
         "button_text_color": "",
         "accordion_background": "#f5f5dc",
         "accordion_text_color": ""
+      }
+    },
+    "tabs_LacFgm": {
+      "type": "tabs",
+      "blocks": {
+        "tab_pLjimn": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 1",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "page": ""
+          }
+        },
+        "tab_mpeMFL": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_HVCngp": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_pLjimn",
+        "tab_mpeMFL",
+        "tab_HVCngp"
+      ],
+      "disabled": true,
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "Heading",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "17602920246bfd4fb9": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_46Rfqt": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_46Rfqt"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multiple_images_with_text_kdUy84": {
@@ -607,13 +685,13 @@
         "contact_form_size": "large",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#2c3e50",
-        "heading_color": "",
+        "text_color": "#333333",
+        "heading_color": "#2e8b57",
         "heading_gradient": "",
-        "contact_background": "#f7f1e1",
-        "contact_text_color": "#1a1a1a",
-        "button_background": "#ff6f20",
-        "button_text_color": "#1a1a1a"
+        "contact_background": "#f5f5dc",
+        "contact_text_color": "#333333",
+        "button_background": "#2e8b57",
+        "button_text_color": "#f5f5dc"
       }
     }
   },
@@ -628,6 +706,8 @@
     "featured_product_BxbNMw",
     "image_with_text_overlay_LX9NiB",
     "faq_FeDVBf",
+    "tabs_LacFgm",
+    "17602920246bfd4fb9",
     "multiple_images_with_text_kdUy84",
     "image_with_text_overlay_RKjBWE",
     "17554414233368e606",
