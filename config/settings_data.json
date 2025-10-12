@@ -30,10 +30,10 @@
     "product_card_background": "#ffffff",
     "product_card_text_color": "#1a1a1a",
     "product_primary_badge_background": "#803cee",
-    "heading_font": "din_next_n7",
+    "heading_font": "poppins_n7",
     "heading_font_size": "large",
     "heading_letter_spacing": -2,
-    "text_font": "din_next_n4",
+    "text_font": "nunito_n4",
     "heading_apparition": "split_fade",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
@@ -45,11 +45,6 @@
     "blocks": {
       "15557474716127144420": {
         "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": false,
-        "settings": {}
-      },
-      "15599951759576395258": {
-        "type": "shopify://apps/mida-replay-heatmaps/blocks/mida_recorder/e4c350c5-eabf-426d-8014-47ef50412bd0",
         "disabled": false,
         "settings": {}
       },

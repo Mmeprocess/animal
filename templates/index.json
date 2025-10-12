@@ -190,6 +190,14 @@
             "show_empty": false
           }
         },
+        "image_rx7Lez": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/V2banniere-promo-_1.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "kaching_bundles_app_block_dggKj3": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -247,6 +255,7 @@
         "badges_Hk3P7X",
         "price_KdNeBV",
         "rating_bpfAtg",
+        "image_rx7Lez",
         "kaching_bundles_app_block_dggKj3",
         "separator_RT7yCN",
         "description_zb6AbE",
@@ -272,6 +281,59 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "faq_FeDVBf": {
+      "type": "faq",
+      "blocks": {
+        "item_mNhaiW": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_RG6MPG": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_HNwFrA": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_mNhaiW",
+        "item_RG6MPG",
+        "item_HNwFrA"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     },
     "multiple_images_with_text_kdUy84": {
@@ -386,6 +448,7 @@
     "rich_text_6gAFjz",
     "rich_text_iN8PCd",
     "featured_product_BxbNMw",
+    "faq_FeDVBf",
     "multiple_images_with_text_kdUy84",
     "image_with_text_overlay_RKjBWE",
     "17554414233368e606",
