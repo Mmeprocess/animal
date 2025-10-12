@@ -427,6 +427,12 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "text_wRNdp4": {
+          "type": "text",
+          "settings": {
+            "text": "<h6><br/><em>\"</em>Prévenez le tartre maintenant, évitez la visite véto plus tard<em>\"</em><br/><br/></h6>"
+          }
+        },
         "essential_countdown_timer_app_block_6xw4Kn": {
           "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
           "settings": {
@@ -468,6 +474,7 @@
         "rating_aUcqL6",
         "separator_3XzKij",
         "kaching_bundles_app_block_azJDH7",
+        "text_wRNdp4",
         "essential_countdown_timer_app_block_6xw4Kn",
         "buy_buttons_mjWRnY",
         "conversion_bear_trust_badges_widget_hFVFJ4",
