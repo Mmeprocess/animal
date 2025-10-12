@@ -159,6 +159,35 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "image_with_text_overlay_CA9e4Q": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_n3hC8a": {
+          "type": "heading",
+          "settings": {
+            "text": "Une routine dentaire simple et efficace",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_n3hC8a"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Gif_demo.gif",
+        "mobile_image": "shopify://shop_images/Gif_demo.gif",
+        "mobile_text_position": "place-self-center-end text-end",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#f5f5dc",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "featured_product_BxbNMw": {
       "type": "featured-product",
       "blocks": {
@@ -448,6 +477,7 @@
     "logo_list_TDQwbg",
     "rich_text_6gAFjz",
     "before_after_image_RgjbgE",
+    "image_with_text_overlay_CA9e4Q",
     "featured_product_BxbNMw",
     "faq_FeDVBf",
     "multiple_images_with_text_kdUy84",
