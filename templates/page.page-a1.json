@@ -534,6 +534,7 @@
         },
         "item_wqXPLb": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Question",
             "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
