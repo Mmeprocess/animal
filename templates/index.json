@@ -34,7 +34,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#f7f1e1",
         "overlay_color": "#000000",
-        "overlay_opacity": 15
+        "overlay_opacity": 7
       }
     },
     "logo_list_TDQwbg": {
@@ -89,11 +89,11 @@
         "items_per_row": 5,
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#1a1a1a",
+        "text_color": "#2e8b57",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
-        "logo_item_border": "#e8e8e8"
+        "logo_item_border": "#f5f5dc"
       }
     },
     "rich_text_6gAFjz": {
@@ -103,16 +103,16 @@
           "type": "heading",
           "settings": {
             "text": "FreschCrocs : la Solution Complète pour ses Dents",
-            "heading_tag": "h1",
-            "text_color": "",
+            "heading_tag": "h2",
+            "text_color": "#2e8b57",
             "gradient": ""
           }
         },
         "image_T47xTD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Benefice_produit.svg",
-            "width_mode": "custom",
+            "image": "shopify://shop_images/image_benefices.svg",
+            "width_mode": "full_width",
             "max_width": 600,
             "mobile_max_width": 400
           }
@@ -127,35 +127,36 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f7f1e1",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
     },
-    "rich_text_iN8PCd": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_WBAeGr": {
-          "type": "heading",
-          "settings": {
-            "text": "Les chiens, nos amis pour la vie",
-            "heading_tag": "h2",
-            "text_color": "#000000",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_WBAeGr"
-      ],
-      "name": "Rich text",
+    "before_after_image_RgjbgE": {
+      "type": "before-after-image",
+      "name": "Before/after image",
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "subheading": "",
+        "title": "Résultats Avant/Après",
+        "content": "",
+        "before_image": "shopify://shop_images/avant_dents_sale.svg",
+        "before_image_mobile": "shopify://shop_images/avant_dents_sale.svg",
+        "after_image": "shopify://shop_images/apres_dnts_propres.svg",
+        "after_image_mobile": "shopify://shop_images/apres_dnts_propres.svg",
+        "expand_image": false,
         "text_position": "center",
-        "background": "#f7f1e1",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
         "background_gradient": "",
-        "text_color": "#2c3e50"
+        "text_color": "#2e8b57",
+        "before_text_color": "#f5f5dc",
+        "after_text_color": "#f5f5dc",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "featured_product_BxbNMw": {
@@ -238,8 +239,8 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "atc_button_background": "#2e8b57",
+            "atc_button_text_color": "#f5f5dc",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
@@ -446,7 +447,7 @@
     "image-with-text-overlay",
     "logo_list_TDQwbg",
     "rich_text_6gAFjz",
-    "rich_text_iN8PCd",
+    "before_after_image_RgjbgE",
     "featured_product_BxbNMw",
     "faq_FeDVBf",
     "multiple_images_with_text_kdUy84",
