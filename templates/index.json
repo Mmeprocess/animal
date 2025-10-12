@@ -547,16 +547,16 @@
         "tab_pLjimn": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Essayez-le 30 jours gratuitement",
+            "content": "<p>Essayez nos lingettes dentaires sans risque pendant 30 jours. </p><p>Produit non ouvert ? Remboursement intégral. Défaut de qualité ? Nous le remplaçons ou vous remboursons immédiatement.<br/></p>",
             "page": ""
           }
         },
         "tab_mpeMFL": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Livraison Gratuite",
+            "content": "<p>La livraison gratuite est uniquement pour la France. Elle sera effectuée à l'adresse que vous nous indiquerez. </p><p><strong>En raison du succès de la semaine mondiale des animaux</strong>, le délai de livraison est estimé entre 7 et 12 jours ouvrés.</p>",
             "page": ""
           }
         },
