@@ -97,11 +97,11 @@
         "items_per_row": 5,
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#2a2a2a",
+        "text_color": "#2e8b57",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
-        "logo_item_border": "#ffffff"
+        "logo_item_border": "#f5f5dc"
       }
     },
     "impact_text_TFXAWQ": {
@@ -131,7 +131,7 @@
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 0.6,
-        "background": "#f7f1e1",
+        "background": "#ffffff",
         "background_gradient": "",
         "heading_text_color": "",
         "heading_gradient": "",
@@ -178,7 +178,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f7f1e1",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#2a2a2a"
       }
@@ -201,7 +201,7 @@
         "before_text": "Avant",
         "after_text": "Après",
         "drag_initial_position": 74,
-        "background": "#f7f1e1",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#f7f1e1",
         "before_text_color": "#ffffff",
@@ -268,19 +268,6 @@
     "multi_column_DxJpcX": {
       "type": "multi-column",
       "blocks": {
-        "item_Xq7bhW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/FEMME_1.svg",
-            "column_size": "3",
-            "title": "Judith B. 42 ans",
-            "heading_tag": "h4",
-            "content": "<p><em><br/>Franchement je pensais que ça ne marcherait pas, mais les dents sont visiblement plus propres.<br/><br/></em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_EQ3cy8": {
           "type": "item",
           "settings": {
@@ -289,6 +276,19 @@
             "title": "Cédric G. 39 ans",
             "heading_tag": "h4",
             "content": "<p><em><br/>Mon chien déteste la brosse à dents, mais il se laisse faire avec les lingettes, c’est devenu un moment facile.<br/><br/></em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Xq7bhW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/FEMME_1.svg",
+            "column_size": "3",
+            "title": "Judith B. 42 ans",
+            "heading_tag": "h4",
+            "content": "<p><em><br/>Franchement je pensais que ça ne marcherait pas, mais les dents sont visiblement plus propres.<br/><br/></em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -348,8 +348,8 @@
         }
       },
       "block_order": [
-        "item_Xq7bhW",
         "item_EQ3cy8",
+        "item_Xq7bhW",
         "item_gRTqBJ",
         "item_NfaLEj",
         "item_t4AbQh",
@@ -364,7 +364,7 @@
         "subheading": "",
         "title": "Nos clients en parlent le mieux",
         "content": "",
-        "background": "#f7f1e1",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#2c3e50"
       }
@@ -559,7 +559,7 @@
         "title": "",
         "text_alignment": "center",
         "first_tab_open": false,
-        "background": "#f7f1e1",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#2a2a2a",
         "heading_color": "",
@@ -589,7 +589,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "background": "#f7f1e1",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#2c3e50"
       }
@@ -652,7 +652,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#f7f1e1",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#2a2a2a",
         "heading_color": "",
