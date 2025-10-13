@@ -402,6 +402,7 @@
         },
         "text_DBABUH": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><em><strong>\"Des dents en pleine santé pour un chien en bonne santé\"</strong></em></p>"
           }
