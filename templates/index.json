@@ -228,7 +228,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#2e8b57",
         "overlay_color": "#000000",
-        "overlay_opacity": 20
+        "overlay_opacity": 0
       }
     },
     "rich_text_B3qa76": {
@@ -527,6 +527,13 @@
             "content": "<p>Les lingettes sont votre <strong>meilleur allié au quotidien </strong>pour maintenir une hygiène dentaire régulière. Elles ciblent efficacement la <strong>plaque superficielle</strong> et les débris entre les nettoyages professionnels. Idéales pour les chiens qui <strong>refusent la brosse</strong> ou en complément de votre routine d'hygiène.</p>"
           }
         },
+        "item_az7zry": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure un paquet avec une utilisation quotidienne ?",
+            "content": "<p>Chaque paquet contient<strong> 50 lingettes</strong>, soit environ<strong> 25 jours d'utilisation</strong> avec<strong> 2 lingettes par jour</strong> (matin et soir). </p><p>Optez pour nos formats économiques pour un meilleur rapport qualité-prix et prévenir les <strong>problèmes dentaires coûteux</strong> à long terme.</p>"
+          }
+        },
         "item_RG6MPG": {
           "type": "item",
           "settings": {
@@ -547,21 +554,14 @@
             "title": "Les lingettes vont-elles vraiment améliorer l'haleine de mon chien ?",
             "content": "<p><strong>Oui, mais avec de la régularité</strong>.</p><p> En éliminant les résidus alimentaires et la plaque, vous <strong>constaterez progressivement</strong> une haleine plus fraîche. </p><p>La clé ? Une <strong>utilisation quotidienne ou après chaque repas.</strong><br/></p>"
           }
-        },
-        "item_az7zry": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de temps dure un paquet avec une utilisation quotidienne ?",
-            "content": "<p>Chaque paquet contient<strong> 50 lingettes</strong>, soit environ<strong> 25 jours d'utilisation</strong> avec<strong> 2 lingettes par jour</strong> (matin et soir). </p><p>Optez pour nos formats économiques pour un meilleur rapport qualité-prix et prévenir les <strong>problèmes dentaires coûteux</strong> à long terme.</p>"
-          }
         }
       },
       "block_order": [
         "item_mNhaiW",
+        "item_az7zry",
         "item_RG6MPG",
         "item_HNwFrA",
-        "item_LAVa8W",
-        "item_az7zry"
+        "item_LAVa8W"
       ],
       "name": "FAQ",
       "settings": {
