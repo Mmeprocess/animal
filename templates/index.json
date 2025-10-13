@@ -164,6 +164,7 @@
       "blocks": {
         "subheading_LxeAdU": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Subheading"
           }
@@ -171,7 +172,7 @@
         "heading_cTCzmD": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Une routine dentaire simple et efficace",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -179,6 +180,7 @@
         },
         "richtext_hmwEqy": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
@@ -189,7 +191,6 @@
         "heading_cTCzmD",
         "richtext_hmwEqy"
       ],
-      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -197,7 +198,7 @@
         "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#2e8b57"
       }
     },
     "image_with_text_overlay_CA9e4Q": {
@@ -205,6 +206,7 @@
       "blocks": {
         "heading_n3hC8a": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Une routine dentaire simple et efficace",
             "heading_tag": "h2"
