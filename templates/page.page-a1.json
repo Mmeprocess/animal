@@ -402,7 +402,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "Nos clients en parlent le mieux",
@@ -575,6 +575,13 @@
             "content": "<p><br/>Les lingettes sont <strong>votre meilleur allié au quotidien</strong> pour maintenir une hygiène dentaire régulière. Elles ciblent efficacement la plaque superficielle et les débris entre les nettoyages professionnels. Idéales pour les chiens qui refusent la brosse ou en complément de votre routine d'hygiène.<br/><br/></p>"
           }
         },
+        "item_mFnxJi": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure un paquet avec une utilisation quotidienne ?",
+            "content": "<p>Chaque paquet contient <strong>50 lingettes</strong>, soit environ <strong>25 jours d'utilisation</strong> avec 2 lingettes par jour (matin et soir). </p><p><strong>Optez pour nos formats économiques</strong> pour un meilleur rapport qualité-prix et prévenir les problèmes dentaires coûteux à long terme.<br/></p>"
+          }
+        },
         "item_wqXPLb": {
           "type": "item",
           "disabled": true,
@@ -604,13 +611,6 @@
             "content": "<p>Oui, mais <strong>avec de la régularité</strong>. En éliminant les résidus alimentaires et la plaque, vous constaterez progressivement une haleine plus fraîche. La clé ? Une utilisation quotidienne ou après chaque repas.</p>"
           }
         },
-        "item_mFnxJi": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de temps dure un paquet avec une utilisation quotidienne ?",
-            "content": "<p>Chaque paquet contient <strong>50 lingettes</strong>, soit environ 25 jours d'utilisation avec 2 lingettes par jour (matin et soir). </p><p><strong>Optez pour nos formats économiques</strong> pour un meilleur rapport qualité-prix et prévenir les problèmes dentaires coûteux à long terme.<br/></p>"
-          }
-        },
         "item_kK8eBd": {
           "type": "item",
           "disabled": true,
@@ -622,11 +622,11 @@
       },
       "block_order": [
         "item_DCXnBH",
+        "item_mFnxJi",
         "item_wqXPLb",
         "item_LnRQL7",
         "item_FXnLnT",
         "item_BDMqbD",
-        "item_mFnxJi",
         "item_kK8eBd"
       ],
       "name": "FAQ",
