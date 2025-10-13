@@ -402,9 +402,8 @@
         },
         "text_DBABUH": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p><em><strong>\"Des dents en pleine santé pour un chien en bonne santé\"</strong></em></p>"
+            "text": "<h6><strong>\"Prenez soin de ses dents maintenant, évitez le véto plus tard.\"<br/></strong><br/></h6>"
           }
         },
         "separator_RT7yCN": {
