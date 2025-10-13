@@ -103,7 +103,7 @@
           "type": "heading",
           "settings": {
             "text": "FreschCrocs : la Solution Complète pour ses Dents",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "#2e8b57",
             "gradient": ""
           }
@@ -389,7 +389,7 @@
         "image_rx7Lez": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/V2banniere-promo-_1.webp",
+            "image": "shopify://shop_images/v2banniere-promo.webp",
             "alignment": "center",
             "max_width": 500
           }
