@@ -436,7 +436,7 @@
         "image_hXaddp": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/V2banniere-promo-_1.webp",
+            "image": "shopify://shop_images/v2banniere-promo.webp",
             "alignment": "center",
             "max_width": 500
           }
