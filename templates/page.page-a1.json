@@ -260,7 +260,7 @@
         "mobile_image": "shopify://shop_images/Gif_demo.gif",
         "mobile_text_position": "place-self-center-end text-end",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#f5f5dc",
+        "text_color": "#2e8b57",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
