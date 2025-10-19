@@ -568,13 +568,6 @@
     "faq_CcMU7X": {
       "type": "faq",
       "blocks": {
-        "item_DCXnBH": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que les lingettes remplacent vraiment le brossage des dents ?",
-            "content": "<p><br/>Les lingettes sont <strong>votre meilleur allié au quotidien</strong> pour maintenir une hygiène dentaire régulière. Elles ciblent efficacement la plaque superficielle et les débris entre les nettoyages professionnels. Idéales pour les chiens qui refusent la brosse ou en complément de votre routine d'hygiène.<br/><br/></p>"
-          }
-        },
         "item_mFnxJi": {
           "type": "item",
           "settings": {
@@ -604,6 +597,13 @@
             "content": "<p>Absolument. Notre formule est <strong>sans alcool, sans parabènes et sans parfums agressifs</strong>. Idéale même pour les chiens âgés ou aux gencives sensibles.</p>"
           }
         },
+        "item_DCXnBH": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que les lingettes remplacent vraiment le brossage des dents ?",
+            "content": "<p><br/>Les lingettes sont <strong>votre meilleur allié au quotidien</strong> pour maintenir une hygiène dentaire régulière. Elles ciblent efficacement la plaque superficielle et les débris entre les nettoyages professionnels. Idéales pour les chiens qui refusent la brosse ou en complément de votre routine d'hygiène.<br/><br/></p>"
+          }
+        },
         "item_BDMqbD": {
           "type": "item",
           "settings": {
@@ -621,11 +621,11 @@
         }
       },
       "block_order": [
-        "item_DCXnBH",
         "item_mFnxJi",
         "item_wqXPLb",
         "item_LnRQL7",
         "item_FXnLnT",
+        "item_DCXnBH",
         "item_BDMqbD",
         "item_kK8eBd"
       ],
