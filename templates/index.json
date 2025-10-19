@@ -84,7 +84,7 @@
         "full_width": true,
         "stack_mobile": true,
         "title": "Ils en parlent :",
-        "content": "",
+        "content": "<p><br/>Ces médias parlent de l'importance du nettoyage des dents des chiens, une mission que nous partageons.<br/><br/></p>",
         "text_alignment": "center",
         "items_per_row": 5,
         "background": "#ffffff",
