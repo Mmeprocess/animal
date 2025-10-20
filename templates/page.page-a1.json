@@ -308,6 +308,49 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_EWqJEM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BprH3C": {
+          "type": "heading",
+          "settings": {
+            "text": "Conçues avec Amour 💚",
+            "heading_tag": "h2",
+            "text_color": "#2e8b57",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_BprH3C"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_HynXbn": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/V5Nos_ingredients_1.svg",
+        "mobile_image": "shopify://shop_images/V5Nos_ingredients_1.svg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_DxJpcX": {
       "type": "multi-column",
       "blocks": {
@@ -806,6 +849,8 @@
     "video_MQeiRd",
     "rich_text_FTyTe9",
     "image_with_text_overlay_kEnUp7",
+    "rich_text_EWqJEM",
+    "image_with_text_overlay_HynXbn",
     "multi_column_DxJpcX",
     "featured_product_JCTVft",
     "image_with_text_overlay_wRhNR9",
