@@ -311,40 +311,14 @@
     "multi_column_DxJpcX": {
       "type": "multi-column",
       "blocks": {
-        "item_EQ3cy8": {
+        "item_BRaAJt": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_13.jpg",
+            "image": "shopify://shop_images/doigt_avec_lingette.jpg",
             "column_size": "3",
-            "title": "Cédric G. 39 ans",
+            "title": "Paul B.",
             "heading_tag": "h4",
-            "content": "<p><em><br/>Mon chien déteste la brosse à dents, mais il se laisse faire avec les lingettes, c’est devenu un moment facile.<br/><br/></em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Xq7bhW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/temoigange.svg",
-            "column_size": "3",
-            "title": "Judith B. 36 ans",
-            "heading_tag": "h4",
-            "content": "<p><em><br/>Franchement je pensais que ça ne marcherait pas, mais les dents sont visiblement plus propres.<br/><br/></em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gRTqBJ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_11.jpg",
-            "column_size": "3",
-            "title": "Pierre E. 52 ans",
-            "heading_tag": "h4",
-            "content": "<p><em><br/>Depuis que je les utilise, mon chien n'a plus de mauvaises haleines<br/><br/></em></p>",
+            "content": "<p><em>Elles sont toutes douces, je suis rassuré de ne rien mettre de nocif dans la bouche de mon chien César.</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -355,8 +329,8 @@
           "settings": {
             "image": "shopify://shop_images/Skarmavbild_2025-06-20_kl.jpg",
             "column_size": "3",
-            "title": "Natasha S. 50 ans",
-            "heading_tag": "h4",
+            "title": "Catherine S.",
+            "heading_tag": "h5",
             "content": "<p><br/>J’avais essayé les jouets à mâcher, mais les lingettes donnent un résultat immédiat et visible.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
@@ -368,22 +342,48 @@
           "settings": {
             "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_9.jpg",
             "column_size": "3",
-            "title": "Chloé D. 27 ans",
-            "heading_tag": "h4",
+            "title": "Evelyne D.",
+            "heading_tag": "h5",
             "content": "<p><em><br/>Je les utilise </em>quotidiennement. <em>Ça revient bien moins cher que le détartrage chez le vétérinaire. <br/><br/></em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_BRaAJt": {
+        "item_Xq7bhW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/doigt_avec_lingette.jpg",
+            "image": "shopify://shop_images/temoigange.svg",
             "column_size": "3",
-            "title": "Paul B. 32 ans",
-            "heading_tag": "h4",
-            "content": "<p><em>Elles sont toutes douces, je suis rassuré de ne rien mettre de nocif dans la bouche de mon chien César.</em></p>",
+            "title": "Judith B.",
+            "heading_tag": "h5",
+            "content": "<p><em><br/>Franchement je pensais que ça ne marcherait pas, mais les dents sont visiblement plus propres.<br/><br/></em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EQ3cy8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_13.jpg",
+            "column_size": "3",
+            "title": "Cédric G",
+            "heading_tag": "h5",
+            "content": "<p><em><br/>Mon chien déteste la brosse à dents, mais il se laisse faire avec les lingettes, c’est devenu un moment facile.<br/><br/></em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gRTqBJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Din_Hunds_Leende_spelar_ocksa_roll_11.jpg",
+            "column_size": "3",
+            "title": "Pierre E.",
+            "heading_tag": "h5",
+            "content": "<p><em><br/>Depuis que je les utilise, mon chien n'a plus de mauvaises haleines<br/><br/></em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -391,12 +391,12 @@
         }
       },
       "block_order": [
-        "item_EQ3cy8",
-        "item_Xq7bhW",
-        "item_gRTqBJ",
+        "item_BRaAJt",
         "item_NfaLEj",
         "item_t4AbQh",
-        "item_BRaAJt"
+        "item_Xq7bhW",
+        "item_EQ3cy8",
+        "item_gRTqBJ"
       ],
       "name": "Multi-column",
       "settings": {
