@@ -637,7 +637,7 @@
           "type": "item",
           "settings": {
             "title": "Est-ce que le produit est sans danger pour mon chien ?",
-            "content": "<p>Absolument. Notre formule est <strong>sans alcool, sans parabènes et sans parfums agressifs</strong>. Idéale même pour les chiens âgés ou aux gencives sensibles.</p>"
+            "content": "<p>Absolument. Notre formule est <strong>sans alcool, sans parabènes et sans parfums agressifs</strong>. </p><p>Voici la liste complète des ingrédients de nos lingettes :</p><ul><li><strong>99,6 % d'eau purifiée EDI</strong></li></ul><p><br/><strong>& 0,4 % restants :</strong></p><ul><li><strong>Extrait de thé vert (0,05 %)</strong> – un antioxydant naturel puissant qui protège les gencives</li><li><strong>Polyphénols de thé (0,05 %)</strong> – des actifs purifiants naturels pour une hygiène optimale</li><li><strong>Allantoïne (0,10 %)</strong> – un apaisant reconnu, parfait pour les gencives sensibles</li><li><strong>Glycérol (0,05 %)</strong> – pour hydrater et maintenir le confort buccal</li><li><strong>Acide citrique (0,05 %)</strong> – pour équilibrer le pH et garantir une fraîcheur naturelle</li><li><strong>Cetylpyridinium chloride monohydrate (0,10 %)</strong> – un agent antibactérien doux, reconnu pour son action purifiante efficace</li></ul>"
           }
         },
         "item_DCXnBH": {
