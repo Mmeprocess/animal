@@ -231,6 +231,49 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_HCNiWh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YGtXYq": {
+          "type": "heading",
+          "settings": {
+            "text": "Conçues avec Amour 💚",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_YGtXYq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_hFMgVb": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "sm",
+        "image": "shopify://shop_images/V7Nos_ingredients_1.svg",
+        "mobile_image": "shopify://shop_images/V7Nos_ingredients_1.svg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "rich_text_B3qa76": {
       "type": "rich-text",
       "blocks": {
@@ -783,6 +826,8 @@
     "before_after_image_RgjbgE",
     "rich_text_hm84iz",
     "image_with_text_overlay_CA9e4Q",
+    "rich_text_HCNiWh",
+    "image_with_text_overlay_hFMgVb",
     "rich_text_B3qa76",
     "images_with_text_scrolling_weTcLA",
     "featured_product_BxbNMw",
