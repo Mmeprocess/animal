@@ -341,7 +341,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "sm",
         "image": "shopify://shop_images/V7Nos_ingredients_1.svg",
         "mobile_image": "shopify://shop_images/V7Nos_ingredients_1.svg",
         "mobile_text_position": "place-self-center text-center",
@@ -478,6 +478,7 @@
         },
         "image_hXaddp": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/v2banniere-promo.webp",
             "alignment": "center",
@@ -523,12 +524,6 @@
           "type": "separator",
           "settings": {}
         },
-        "essential_countdown_timer_app_block_6xw4Kn": {
-          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cmgcrqrv9002kn82ed66957d7"
-          }
-        },
         "buy_buttons_mjWRnY": {
           "type": "buy_buttons",
           "settings": {
@@ -566,7 +561,6 @@
         "kaching_bundles_app_block_azJDH7",
         "text_wRNdp4",
         "separator_KD6xGD",
-        "essential_countdown_timer_app_block_6xw4Kn",
         "buy_buttons_mjWRnY",
         "conversion_bear_trust_badges_widget_hFVFJ4",
         "image_FwagtB"
