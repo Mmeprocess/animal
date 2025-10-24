@@ -16,6 +16,7 @@
       "blocks": {
         "message": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "🎉SEMAINE MONDIALE DES ANIMAUX PROLONGATION JUSQU'À DIMANCHE  19/10🎉",
             "url": ""
@@ -31,7 +32,7 @@
         "message_eTirXt": {
           "type": "message",
           "settings": {
-            "text": "Livraison Gratuite jusqu'au 19/10",
+            "text": "Livraison Gratuite jusqu'à 00h",
             "url": ""
           }
         }
