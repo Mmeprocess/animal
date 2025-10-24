@@ -431,6 +431,7 @@
         },
         "image_rx7Lez": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/v2banniere-promo.webp",
             "alignment": "center",
@@ -452,12 +453,6 @@
         "separator_RT7yCN": {
           "type": "separator",
           "settings": {}
-        },
-        "essential_countdown_timer_app_block_jz4wVC": {
-          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cmgcrqrv9002kn82ed66957d7"
-          }
         },
         "description_zb6AbE": {
           "type": "description",
@@ -515,7 +510,6 @@
         "kaching_bundles_app_block_dggKj3",
         "text_DBABUH",
         "separator_RT7yCN",
-        "essential_countdown_timer_app_block_jz4wVC",
         "description_zb6AbE",
         "variant_picker_MRdwQ7",
         "quantity_selector_nmkGyj",
