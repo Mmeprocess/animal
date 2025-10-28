@@ -418,7 +418,6 @@
         },
         "price_KdNeBV": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -436,12 +435,6 @@
             "image": "shopify://shop_images/v2banniere-promo.webp",
             "alignment": "center",
             "max_width": 500
-          }
-        },
-        "kaching_bundles_app_block_dggKj3": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
           }
         },
         "text_DBABUH": {
@@ -507,7 +500,6 @@
         "price_KdNeBV",
         "rating_bpfAtg",
         "image_rx7Lez",
-        "kaching_bundles_app_block_dggKj3",
         "text_DBABUH",
         "separator_RT7yCN",
         "description_zb6AbE",
@@ -681,23 +673,6 @@
     },
     "17602920246bfd4fb9": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_46Rfqt": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_46Rfqt"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
